@@ -1,7 +1,7 @@
 ---
 title: "WUCU: Home"
 description: | 
-  Keeping money in students' pockets; sending sweet gnar.
+  Keeping money in students' pockets; sending sweet gnar. 
 output: distill::distill_article
 ---
 

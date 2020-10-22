@@ -2,7 +2,7 @@
 name: "Warwick University Climbers' Union"
 output_dir: "."
 navbar:
-  title: "Warwick University Climbers' Union"
+  title: "Warwick University Climbers' Union "
   logo:
     image: images/logo.png
     href: https://www.rstudio.com

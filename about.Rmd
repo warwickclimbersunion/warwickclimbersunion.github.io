@@ -3,4 +3,4 @@ title: "About"
 output: distill::distill_article
 ---
 
-More about ths website.
+More about ths website. 

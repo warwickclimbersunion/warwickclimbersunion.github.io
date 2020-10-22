@@ -2,4 +2,4 @@
 title: "Manifesto"
 ---
 
-More about ths website.
+More about ths website. 
