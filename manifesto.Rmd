@@ -2,4 +2,10 @@
 title: "Manifesto"
 ---
 
-More about ths website. 
+# Why a Union?
+WUCU is a collective response of Warwick University climbers to: 
+
+1. The absurd cost of the [Warwick SU Sports Federation (£32) and Club Pass fees (£66)](https://www.warwicksu.com/societies-sports/sports-clubs/climbing/) that students are required to pay before they are allowed join any sports club (£6).
+2. The pittiful fraction of these fees which Warwick Univsity Climbing Club recieves (£2 per member). 
+3. Increasing costs of access (£6 for registration) and entry (£205 for annual membership) to Warwick University climbing facilities.
+3. The inability of Warwick SU to effectively act in the interest of student climbers.

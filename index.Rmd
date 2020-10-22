@@ -1,19 +1,31 @@
 ---
-title: "WUCU: Home"
+title: "Warwick University Climbers' Union"
 description: | 
-  Keeping money in students' pockets; sending sweet gnar. 
-output: distill::distill_article
+  Keeping money in student climbers' pockets and sending sweet gnar.
+output: 
+  distill::distill_article:
+    css: style.css
 ---
 
 
+Welcome to the WUCU website! 
+
+# Our Mission
+We are an organisation for student and alumni climbers that is independent of Warwick SU and Warwick Sport. We organise cheap climbing trips to the Peak District, the Wye Valley, Leicestershire and beyond! We actively lobby on behalf of the interests of student climbers and act as a support network for all student climbers. 
+
+For more information please see [our manifesto](manifesto.html).
+
+If you're interested in coming outside with us then check out [our trips page](trips.html).
+
+<br>
+
+```{r, echo=FALSE, fig.align='center', out.width = '40%'}
+library(knitr)
+include_graphics("images/logo2.png")
+```
 
 
-
-
-
-
-
-```{r slideshow, echo = FALSE, warning = FALSE, message = FALSE, layout="l-screen", out.height='0.1%', out.width='100%', fig.align='center'}
+```{r slideshow, echo = FALSE, warning = FALSE, message = FALSE, layout="l-screen", out.height='401px', out.width='100%', fig.align='center'}
 #library(htmlwidgets)
 #library(slickR)
 
@@ -22,6 +34,6 @@ output: distill::distill_article
 #slideshow_image_paths <- paste0("images/slideshow/", list.files("images/slideshow"))
 
 # Build the slideshow using the slickR package.
-#slickR(obj = slideshow_image_paths, height = "0.1%", width = "100%") + 
-#  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = FALSE, mobileFirst = TRUE)
+#slickR(obj = slideshow_image_paths, height = "400px", width = "100%") + 
+#  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = TRUE)
 ```
