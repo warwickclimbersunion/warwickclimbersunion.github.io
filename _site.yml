@@ -1,0 +1,31 @@
+---
+name: "Warwick University Climbers' Union"
+output_dir: "."
+navbar:
+  title: "Warwick University Climbers' Union"
+  logo:
+    image: images/logo.png
+    href: https://www.rstudio.com
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Manifesto"
+      href: manifesto.html
+    - text: "Trips"
+      href: trips.html
+    - text: "Gallery"
+      href: gallery.html
+    - text: "FAQ"
+      href: faq.html
+    - text: "Links"
+      menu:
+          - text: "Warwick University Climbing Club"
+            href: "https://warwickclimbing.co.uk/"
+          - text: "Leiscestershire Bouldering"
+            href: "http://leicestershirebouldering.co.uk/"
+          - text: "Warwickshire Climbs"
+            href: "https://warwickshireclimbs.weebly.com/"
+    - text: "Contact"
+      href: contact.html
+output: distill::distill_article
+---

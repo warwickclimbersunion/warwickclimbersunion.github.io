@@ -1,0 +1,5 @@
+---
+title: "Manifesto"
+---
+
+More about ths website.
