@@ -1,8 +1,8 @@
 ---
-name: "Warwick University Climbers' Union"
+name: "WUCU"
 output_dir: "."
 navbar:
-  title: "Warwick University Climbers' Union "
+  title: "WUCU"
   logo:
     image: images/logo.png
     href: https://www.rstudio.com

@@ -7,7 +7,6 @@ output:
     css: style.css
 ---
 
-
 Welcome to the WUCU website! 
 
 # Our Mission
