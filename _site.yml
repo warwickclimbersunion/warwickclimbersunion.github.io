@@ -17,6 +17,11 @@ navbar:
       href: trips.html
     - text: "Gallery"
       href: gallery.html
+    - text: "Articles"
+      menu:
+          - text: 'Money Saving Tips:'
+          - text: "What Memberships Should I Buy?"
+            href: "price.html"
     - text: "FAQ"
       href: faq.html
     - text: "Links"
