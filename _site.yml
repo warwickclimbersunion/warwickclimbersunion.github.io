@@ -20,9 +20,16 @@ navbar:
       href: faq.html
     - text: "Links"
       menu:
+          - text: 'Kindred Clubs:'
           - text: "Warwick University Climbing Club"
             href: "https://warwickclimbing.co.uk/"
-          - text: "Leiscestershire Bouldering"
+          - text: "Warwick Mountains"
+            href: "https://www.warwickmountains.com/"
+          - text: "Warwick Wilderness Medicine"
+            href: "http://warwickwildernessmedicine.wordpress.com/"
+          - text: '---------'
+          - text: 'Local Climbing Guides:'
+          - text: "Leicestershire Bouldering"
             href: "http://leicestershirebouldering.co.uk/"
           - text: "Warwickshire Climbs"
             href: "https://warwickshireclimbs.weebly.com/"

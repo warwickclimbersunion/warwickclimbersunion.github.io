@@ -1,8 +1,50 @@
 ---
 title: "FAQ"
-description: | 
-  Semper Mittendum
 output: distill::distill_article
 ---
 
-Hello, website! 
+# What is the aim of WUCU?
+The primary aim this year will be to provide Warwick students a means of engaging in climbing and mountaineering independent of any association to Warwick Sport or the SU. We organise day trips to nearby areas and weekend trips. We keep costs as low as possible by staying in cheap bunkhoues and using using club members' cars for transport.
+
+
+# How much will it cost to join?
+
+WUCU is a British Mountaineering Council (BMC) affiliated club, this affiliation costs £16.75 per member and provides us with [combined liability insurance](http://www.bmc-insurance-centre.co.uk/uploads/documents/bmc-insurance-centre//BMC-Club-Summary-2020-June-2020.pdf). There is a further £3.25 cost to join, which is to help the club’s cashflow. If you have also joined WUCC and paid the BMC fee, you can [have one of them refunded by the BMC](https://www.thebmc.co.uk/claiming-multiple-membership-refunds).
+
+
+# Who can join?
+
+All Warwick students (present and past) are eligible to join.
+
+
+# Can I join both WUCC and WUCU?
+
+Absolutely! If you are a member of WUCC and have paid the BMC affiliation fee, joining WUCU will only cost you £3.25.
+
+
+# Has WUCU been set up as a rival to WUCC?
+
+No, WUCU has been set up by current and former exec members of WUCC. In order to join WUCC in the 2020/2021 academic year you have to pay Warwick SU and Warwick Sport a total of £104. We believe is extremely poor value for money, especially for those who already have a Warwick Sport Climbing membership and for those who already know how to lead climb.
+
+
+# I don’t have a Warwick Sport membership and use the club pass to climb during club hours, how will this affect me?
+
+It won’t! WUCC will retain its normal club hours; of course you will be very welcome to join WUCU as well!
+
+
+# What about socials and training?
+
+WUCU is an outdoor focused club and our goal is to keep climbers at Warwick part of a single stronger community. We will not run any socials and encourage all members to attend WUCC socials.
+
+
+WUCU won’t provide any formal training this year, so if you want to learn to top-rope or lead climb you should do this through WUCC.
+
+
+# How is WUCU dealing with COVID-19?
+
+We all have a responsibility to follow [the law](https://www.gov.uk/coronavirus) and the [BMC’s advice](https://www.thebmc.co.uk/covid19-restarting-club-meets) on COVID-19. This means that we must only climb in small groups (six people or fewer) and keep to these groups for transport. We will not be holding trips to [areas where a tier 3 local lockdown is in place](https://www.gov.uk/find-coronavirus-local-restrictions).
+
+
+# I still have questions. Where can I ask these?
+
+Feel free to drop us a message via our [Instagram](https://www.instagram.com/warwick_climbers_union/) or our [contact page](contact.html).
