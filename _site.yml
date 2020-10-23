@@ -22,6 +22,8 @@ navbar:
           - text: 'Money Saving Tips:'
           - text: "What Memberships Should I Buy?"
             href: "price.html"
+          - text: "Cheap Climbing Gear"
+            href: "gear.html"
     - text: "FAQ"
       href: faq.html
     - text: "Links"

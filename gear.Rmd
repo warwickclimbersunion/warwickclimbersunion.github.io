@@ -1,0 +1,26 @@
+---
+title: "Cheap Climbing Gear"
+description: | 
+  The best places in Coventry to buy cheap gear.
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+
+# Go Outdoors
+There is a [Go Outdoors store](https://www.gooutdoors.co.uk/stores/coventry) next to Canley station. It is a half an hour walk from campus, or you catch catch the [free shuttle bus](https://warwick.ac.uk/services/estates/transport/buses/shuttlebus/) to the station.
+
+Go Outdoors offers a [price match guarantee](https://www.gooutdoors.co.uk/price-guarantee) where they will beat any item's price by 10%.
+
+They also do a [10% student discount](https://www.gooutdoors.co.uk/students), just show your student car in store.
+
+Note that you may need to buy a Go Outdoors membership card to access these offers. If your flatmate has a discount card then [you are allowed to use that](https://www.gooutdoors.co.uk/discount-card-terms-and-conditions).
+
+# Decthalon
+Decathlon does own-brand climbing gear which is much cheaper, but of lower quality, than that which you can buy at Go Outdoors. The [Decathlon store](https://www.decathlon.co.uk/store-view/sport-shop-coventry-0070071700717) is much further away from campus than the Go Outdoors store. It is a 15 minute drive, or a 45 minute cycle, away from campus.
+
+# Cheap Gear to Avoid
+* [Unrated carabiners from Amazon and eBay.](https://www.reddit.com/r/climbing/comments/b685vi/new_climbers_do_not_use_amazon_for_gear_unless/)
+* Second hand rope, harnesses, slings or helmets, [for safety reasons](https://blog.weighmyrack.com/buying-used-climbing-gear/)
+* Decthalon chalk because it's rubbish. Rock Technologies chalk is a good cheap option, [available at Go Outdoors](https://www.gooutdoors.co.uk/15899255/rock-technologi-chalk-ball-15899255) and you can use the student discount.

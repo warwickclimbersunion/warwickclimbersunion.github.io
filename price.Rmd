@@ -9,11 +9,9 @@ output:
 
 Below is a flowchart to help you determine the cost of climbing memberships for University of Warwick students. 
 
-If you haven't climbed before then the best option is to purchase WUCC membership with the club pass. That way you can learn to top-rope and lead climb through WUCC, as well as determine whether you like climbing enough to purchase the Wall Membership. 
+If you're unsure on the difference between WUCC and WUCU trips, or have any other questions, then please feel free to [get in touch](contact.html).
 
-If you already know how to climb and want to go on trips then things are slightly more complicated. WUCC do a few trips per term, as well as a tour in Term 3. The trips cost between £50 and £60 and tour typically costs around £X. WUCU do more trips per term and the cost per trip is much cheaper. If you already know how to climb and don't want to specifically go on WUCC trips or tour then you could save £100 by joining WUCU instead of WUUC. 
-
-Note: this chart doesn't include possibilities such as having an ["inclusive" membership](https://warwick.ac.uk/services/sport/join/student-memberships/) which include off-peak climbing, [pay-as-you-go use](https://warwick.ac.uk/services/sport/active/climbing/#prices) (which may be cheapest if you only go a few times per term outside club hours), or membership at [the Ballroom](https://www.ballroomclimbing.co.uk/) in Coventry city centre. If you use the gym, don't go often, or live in Coventry then these options should also be considered.
+**Note:** this chart doesn't include possibilities such as having an ["inclusive" membership](https://warwick.ac.uk/services/sport/join/student-memberships/) which include off-peak climbing, [pay-as-you-go use](https://warwick.ac.uk/services/sport/active/climbing/#prices) (which may be cheapest if you only go a few times per term outside club hours), or membership at [the Ballroom](https://www.ballroomclimbing.co.uk/) in Coventry city centre. If you use the gym, don't go often, or live in Coventry then these options should also be considered.
 
 ```{r, echo=FALSE, results = 'asis', layout="l-screen-inset", fig.height=9}                  
 DiagrammeR::grViz("digraph {
