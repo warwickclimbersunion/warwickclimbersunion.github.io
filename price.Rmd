@@ -1,0 +1,73 @@
+---
+title: "The Price of Climbing at the University of Warwick"
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+Below is a flowchart to help you determine the cost of climbing memberships for University of Warwick students. 
+
+Note: this chart doesn't include possibilities such as having an ["inclusive" membership](https://warwick.ac.uk/services/sport/join/student-memberships/) which include off-peak climbing, [pay-as-you-go use](https://warwick.ac.uk/services/sport/active/climbing/#prices) (which may be cheapest if you only go a few times per term outside club hours), or membership at [the Ballroom](https://www.ballroomclimbing.co.uk/) in Coventry city centre. If you use the gym, don't go often, or live in Coventry then these options should also be considered.
+
+```{r, echo=FALSE, results = 'asis', layout="l-screen-inset", fig.height=9}                  
+DiagrammeR::grViz("digraph {
+
+graph [layout = dot, rankdir = TB]
+
+# define the global styles of the nodes. We can override these in box if we wish
+node [shape = rectangle, style = filled, fillcolor = Linen]
+
+can_climb [label = 'Do you already know how to climb?']
+climb_inside [label =  'Do you want to climb inside?']
+join_wucc [label = 'Join WUCC with Club Pass \n\n £6 Registration \n £6 Club Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £126.75']
+when_climb [label= 'When do you want to climb?']
+wucc_trips [label = 'Do you want to go on WUCC trips?']
+wucu_trips_1 [label = 'Do you want to go on WUCU trips?']
+wucu_trips_2 [label = 'Do you want to go on WUCU trips?']
+outdoor_join_wucc_wucu [label = 'Join WUCC and WUCU \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £124']
+outdoor_join_wucc [label = 'Join WUCC  \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £120.75 ']
+outdoor_join_wucu [label = 'Join WUCU \n\n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £20']
+pay_nothing [label = 'Join Nothing \n\n Total: £0']
+
+indoor_wucc_trips1 [label = 'Do you want to go on WUCC trips?']
+
+indoor_wucu_trips1 [label = 'Do you want to go on WUCU trips?']
+indoor_wucu_trips2 [label = 'Do you want to go on WUCU trips?']
+indoor_wucu_trips3 [label = 'Do you want to go on WUCU trips?']
+
+
+indoor_whenever_wuuc_wucu [label = 'Wall Membership; WUUC and WUCU \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £335']
+indoor_whenever_wuuc [label = 'Wall Membership; WUUC \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £331.75']
+indoor_whenever_wucu [label = 'Wall Membership; WUCU \n\n £6 Registration \n £205 Climbing Membership \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £231']
+indoor_whenever [label = 'Wall Membership \n\n £6 Registration \n £205 Climbing Membership \n\n Total: £211']
+indoor_wucc_wucu [label = 'Club Pass; WUUC and WUCU \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £130']
+indoor_wucc [label = 'Club Pass; WUUC \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £126.75']
+
+# edge definitions with the node IDs
+can_climb -> climb_inside [label='YES']
+can_climb -> join_wucc [label='NO']
+climb_inside -> when_climb [label ='YES']
+climb_inside -> wucc_trips [label ='NO']
+wucc_trips -> wucu_trips_1 [label ='YES']
+wucc_trips -> wucu_trips_2 [label ='NO']
+wucu_trips_1 -> outdoor_join_wucc_wucu [label = 'YES']
+wucu_trips_1 -> outdoor_join_wucc [label = 'NO']
+wucu_trips_2 -> outdoor_join_wucu [label = 'YES']
+wucu_trips_2 -> pay_nothing [label = 'NO']
+when_climb -> indoor_wucc_trips1 [label = 'Whenever I Like']
+when_climb -> indoor_wucu_trips3 [label = 'WUCC Club Hours']
+indoor_wucc_trips1 -> indoor_wucu_trips1 [label = YES]
+indoor_wucc_trips1 -> indoor_wucu_trips2 [label = NO]
+indoor_wucu_trips1 -> indoor_whenever_wuuc_wucu [label =  YES]
+indoor_wucu_trips1 -> indoor_whenever_wuuc [label =  NO]
+
+indoor_wucu_trips2 -> indoor_whenever_wucu [label =  YES]
+indoor_wucu_trips2 -> indoor_whenever [label =  NO]
+
+indoor_wucu_trips3 -> indoor_wucc_wucu [label = YES]
+indoor_wucu_trips3 -> indoor_wucc [label = NO]
+
+
+}")
+
+```
