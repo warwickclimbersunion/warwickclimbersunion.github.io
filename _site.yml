@@ -1,6 +1,7 @@
 ---
 name: "WUCU"
 title: "WUCU"
+favicon: images/icon.png
 output_dir: "."
 navbar:
   title: "Warwick University Climbers' Union"
