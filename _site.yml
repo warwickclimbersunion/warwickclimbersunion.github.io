@@ -15,14 +15,12 @@ navbar:
       href: manifesto.html
     - text: "Trips"
       href: trips.html
-    - text: "Gallery"
-      href: gallery.html
     - text: "Articles"
       menu:
           - text: 'Money Saving Tips:'
           - text: "What Memberships Should I Buy?"
             href: "price.html"
-          - text: "Cheap Climbing Gear"
+          - text: "Saving Money On Climbing Gear"
             href: "gear.html"
     - text: "FAQ"
       href: faq.html

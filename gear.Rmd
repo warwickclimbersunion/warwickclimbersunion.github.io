@@ -1,7 +1,7 @@
 ---
-title: "Cheap Climbing Gear"
+title: "Saving Money On Climbing Gear"
 description: | 
-  The best places in Coventry to buy cheap gear.
+  The best places in Coventry to buy cheap gear and other cash-saving tips.
 output: 
   distill::distill_article:
     css: style.css
@@ -9,18 +9,31 @@ output:
 
 
 # Go Outdoors
-There is a [Go Outdoors store](https://www.gooutdoors.co.uk/stores/coventry) next to Canley station. It is a half an hour walk from campus, or you catch catch the [free shuttle bus](https://warwick.ac.uk/services/estates/transport/buses/shuttlebus/) to the station.
+There is a [Go Outdoors store](https://www.gooutdoors.co.uk/stores/coventry) next to Canley station. It is only half an hour walk from campus or alternatively you can catch catch the [free shuttle bus](https://warwick.ac.uk/services/estates/transport/buses/shuttlebus/) to the station.
 
-Go Outdoors offers a [price match guarantee](https://www.gooutdoors.co.uk/price-guarantee) where they will beat any item's price by 10%.
+Go Outdoors offers a [price match guarantee](https://www.gooutdoors.co.uk/price-guarantee) where they will beat any price given by another UK based company by 10%. You price match online or in store.
 
-They also do a [10% student discount](https://www.gooutdoors.co.uk/students), just show your student car in store.
+They also do a [10% student discount](https://www.gooutdoors.co.uk/students) which you get by showing your student card at the checkout.
 
 Note that you may need to buy a Go Outdoors membership card to access these offers. If your flatmate has a discount card then [you are allowed to use that](https://www.gooutdoors.co.uk/discount-card-terms-and-conditions).
 
 # Decthalon
-Decathlon does own-brand climbing gear which is much cheaper, but of lower quality, than that which you can buy at Go Outdoors. It's a good option for people who want to buy their first pieces of climbing gear and don't want to spend too much. The [Decathlon store](https://www.decathlon.co.uk/store-view/sport-shop-coventry-0070071700717) is much further away from campus than the Go Outdoors store. It is a 15 minute drive, or a 45 minute cycle, away from campus.
+Decathlon does own-brand climbing gear which is much cheaper, but of lower quality, than that which you can buy at Go Outdoors. It's a good option for people who want to buy their first pieces of climbing gear and don't want to spend too much. The [Decathlon store](https://www.decathlon.co.uk/store-view/sport-shop-coventry-0070071700717) is much further away from campus than the Go Outdoors store (15 minute drive/45 minute cycle).
+
+# Other Cheap Gear Options
+* Google Shopping indexes most of the UK based online gear stores so it is always worth comparing your price against it.
+* Facebook marketplace groups [Outdoor Gear Exchange UK](https://www.facebook.com/groups/usedgearexchangeuk/) and [Climbing Gear Exchange UK](https://www.facebook.com/groups/733963366659553) are places where people commonly sell second hand climbing gear. See below for which items to avoid.
+* [Rock + Run](https://rockrun.com/) are known for occasionally having very good deals on. They are always worth checking.
+* [Cotswold Outdoor](https://www.cotswoldoutdoor.com/our-partners/bmc.html), [Up and Under](http://www.upandunder.co.uk/Blog/archive/2013/12/bmc-discount-code/), [Snow + Rock](https://www.snowandrock.com/?utm_source=PartnerPage&utm_campaign=BMC&utm_medium=Website) and [Absolute Snow](https://www.absolute-snow.co.uk/services/partners-programme-club-discounts) offer a 15% discount to BMC members. This discount can sometimes make it the cheapest option. If you are a paid up member of either WUCC or WUCU you are also a member of the BMC by affiliation. See the [BMC website](https://www.thebmc.co.uk/get-discounts-in-shops-nationwide) a full list of stores where you can get a BMC discount. 
+* [eBay](https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw=chalk+bag&_sacat=0&_sop=15&rt=nc&LH_Auction=1) is a good place to pick up a second hand chalk bag for cheap. For boulderers, the cheapest option is just putting a chalk ball in a sandwich bag.
 
 # Cheap Gear to Avoid
-* [Unrated carabiners from Amazon and eBay.](https://www.reddit.com/r/climbing/comments/b685vi/new_climbers_do_not_use_amazon_for_gear_unless/)
-* Second hand rope, harnesses, slings or helmets, [for safety reasons](https://blog.weighmyrack.com/buying-used-climbing-gear/)
+* [Unrated carabiners from Amazon, eBay or eleswhere](https://www.reddit.com/r/climbing/comments/b685vi/new_climbers_do_not_use_amazon_for_gear_unless/). FOr more info on gear ratings, see [this Rock and Ice article](https://rockandice.com/gear/buying-tips/making-sense-of-the-uiaa-ce-and-3-sigma-ratings/).
+* Second hand rope, harnesses, slings or helmets, [for safety reasons](https://blog.weighmyrack.com/buying-used-climbing-gear/). The exception to this is if you trust the seller to accurately confirm the items's age, level of use, and whether it has taken any stress or damage.
 * Decthalon chalk because it's rubbish. Rock Technologies chalk is a good cheap option, [available at Go Outdoors](https://www.gooutdoors.co.uk/15899255/rock-technologi-chalk-ball-15899255) and you can use the student discount.
+* Beemat boulder pads aren't worth it even at low prices.
+
+# Borrowing Gear
+* You can borrow helmets, bouldering pads and guidebooks from WUCC (paying a deposit), but make sure to look after them and to give them back!
+* The university library has two books on climbing injury prevention and treatment. [Make Or Break](https://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3069074__Smake%20or%20break__Orightresult__U__X6?lang=eng&suite=cobalt) and [One Move Too Many](https://encore.lib.warwick.ac.uk/iii/encore/record/C__Rb3069075__Sone%20move%20too%20many__Orightresult__U__X6?lang=eng&suite=cobalt). WUCC also has a copy of One Move Too Many you can borrow.
+* The university has a decent collection of general [rock climbing](https://encore.lib.warwick.ac.uk/iii/encore/search/C__SRock%20climbing.__Ff%3Afacetmediatype%3Aa%3Aa%3APrint%20Book%3A%3A__Orightresult__X0?lang=eng&suite=cobalt) and [mountaineering books](https://encore.lib.warwick.ac.uk/iii/encore/search/C__SMountaineering.__Ff%3Afacetmediatype%3Aa%3Aa%3APrint%20Book%3A%3A__Orightresult__X0?lang=eng&suite=cobalt).
