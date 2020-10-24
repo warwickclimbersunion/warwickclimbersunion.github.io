@@ -25,13 +25,13 @@ node [shape = rectangle, style = filled, fillcolor = Linen]
 
 can_climb [label = 'Do you already know how to climb?']
 climb_inside [label =  'Do you want to climb inside?']
-join_wucc [label = 'Join WUCC with Club Pass \n\n £6 Registration \n £6 Club Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £126.75']
+join_wucc [label = 'Join WUCC with Club Pass \n\n £6 Registration \n £6 Club Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n\n Total: £126.85']
 when_climb [label= 'When do you want to climb?']
 wucc_trips [label = 'Do you want to go on WUCC trips?']
 wucu_trips_1 [label = 'Do you want to go on WUCU trips?']
 wucu_trips_2 [label = 'Do you want to go on WUCU trips?']
-outdoor_join_wucc_wucu [label = 'Join WUCC and WUCU \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £124']
-outdoor_join_wucc [label = 'Join WUCC  \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £120.75 ']
+outdoor_join_wucc_wucu [label = 'Join WUCC and WUCU \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £124.10']
+outdoor_join_wucc [label = 'Join WUCC  \n\n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n\n Total: £120.85 ']
 outdoor_join_wucu [label = 'Join WUCU \n\n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £20']
 pay_nothing [label = 'Join Nothing \n\n Total: £0']
 
@@ -42,12 +42,12 @@ indoor_wucu_trips2 [label = 'Do you want to go on WUCU trips?']
 indoor_wucu_trips3 [label = 'Do you want to go on WUCU trips?']
 
 
-indoor_whenever_wuuc_wucu [label = 'Wall Membership; WUUC and WUCU \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £335']
-indoor_whenever_wuuc [label = 'Wall Membership; WUUC \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £331.75']
+indoor_whenever_wuuc_wucu [label = 'Wall Membership; WUUC and WUCU \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £335.10']
+indoor_whenever_wuuc [label = 'Wall Membership; WUUC \n\n £6 Registration \n £205 Climbing Membership \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n\n Total: £331.85']
 indoor_whenever_wucu [label = 'Wall Membership; WUCU \n\n £6 Registration \n £205 Climbing Membership \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £231']
 indoor_whenever [label = 'Wall Membership \n\n £6 Registration \n £205 Climbing Membership \n\n Total: £211']
-indoor_wucc_wucu [label = 'Club Pass; WUUC and WUCU \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £130']
-indoor_wucc [label = 'Club Pass; WUUC \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.75 BMC Affiliation \n\n Total: £126.75']
+indoor_wucc_wucu [label = 'Club Pass; WUUC and WUCU \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n £3.25 WUCU Membership \n\n Total: £130.10']
+indoor_wucc [label = 'Club Pass; WUUC \n\n £6 Registration \n £6 WUCC Membership \n £66 Club Pass \n £32 Sports Federation \n £16.85 BMC Affiliation \n\n Total: £126.85']
 
 # edge definitions with the node IDs
 can_climb -> climb_inside [label='YES']

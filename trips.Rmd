@@ -14,4 +14,9 @@ At the moment we are limited to doing day trips but we hope to one day organise 
 
 For photos and videos of what we get up to feel free to check out our [Instagram](https://www.instagram.com/warwick_climbers_union/) and [Youtube](https://www.youtube.com/channel/UCICcXE7dYugbFBRfbdjl90Q) pages.
 
-![](https://youtu.be/ngWcd3wjUfE){width="90%"}
+<br>
+
+```{r, layout="l-body-outset", fig.asp=2}
+library(vembedr)
+embed_youtube("ngWcd3wjUfE", width = 560, height = 500)
+```

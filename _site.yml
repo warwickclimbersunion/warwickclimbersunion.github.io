@@ -39,6 +39,12 @@ navbar:
             href: "http://leicestershirebouldering.co.uk/"
           - text: "Warwickshire Climbs"
             href: "https://warwickshireclimbs.weebly.com/"
+          - text: '---------'
+          - text: 'Ticklists:'
+          - text: "Must-Do Local Climbs"
+            href: "https://www.ukclimbing.com/logbook/set.php?id=3593"
+          - text: "The WUCC Fresher Challenge"
+            href: "https://www.ukclimbing.com/logbook/set.php?id=2547"
     - text: "Contact"
       href: contact.html
 output: distill::distill_article
