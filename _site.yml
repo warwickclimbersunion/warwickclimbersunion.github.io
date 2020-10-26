@@ -24,6 +24,9 @@ navbar:
             href: "price.html"
           - text: "Saving Money On Climbing Gear"
             href: "gear.html"
+          - text: 'Training Tips:'
+          - text: "The Training Board"
+            href: "https://warwickclimbing.co.uk/about/training/theboard/"
     - text: "Links"
       menu:
           - text: 'Kindred Clubs:'
