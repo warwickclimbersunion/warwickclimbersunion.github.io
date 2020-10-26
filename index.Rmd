@@ -1,7 +1,7 @@
 ---
 title: "Warwick University Climbers' Union"
 description: | 
-  Keeping money in student climbers' pockets and sending sweet gnar.
+  Keeping money in student climbers' pockets.
 output: 
   distill::distill_article:
     css: style.css
