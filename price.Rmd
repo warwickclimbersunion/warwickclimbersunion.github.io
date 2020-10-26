@@ -7,7 +7,7 @@ output:
     css: style.css
 ---
 
-Below is a flowchart to help you determine the cost of climbing memberships for University of Warwick students. 
+Below is a flowchart to help you determine the cost of climbing memberships for University of Warwick students. If you are limited by your budget you can look along the prices at the bottom and work backwards.
 
 If you are already part of another sports club you will not need to pay the Sports Federation and some or all of the Club Pass fees.
 
