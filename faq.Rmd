@@ -4,7 +4,7 @@ output: distill::distill_article
 ---
 
 # What is the aim of WUCU?
-The primary aim this year will be to provide Warwick students a means of engaging in climbing and mountaineering independent of any association to Warwick Sport or the SU. We organise day trips to nearby areas and weekend trips. We keep costs as low as possible by staying in cheap bunkhoues and using using club members' cars for transport.
+The primary aim this year will be to provide Warwick students a means of engaging in climbing and mountaineering independent of any association to Warwick Sport or the SU. We organise day trips to nearby areas and weekend trips. We keep costs as low as possible by staying in cheap bunkhoues and using club members' cars for transport.
 
 
 # How much will it cost to join?
