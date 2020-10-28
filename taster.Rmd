@@ -1,0 +1,28 @@
+---
+title: "Trying Out Climbing For Cheap"
+description: | 
+  How to get your first taste of climbing for as cheap as possible.
+output: 
+  distill::distill_article:
+    css: style.css
+---
+  
+
+# Through WUCC
+
+WUCC also organise taster sessions at the Ballroom, typically at the start of Term 1. If you live in Coventry this could be the cheapest option for you.
+
+# The Sport and Wellness Hub
+
+If you miss the WUCC taster sessions at the start of term then you can still try climbing on campus, though it will cost some money. Registration at the [Sport and Wellness Hub](https://warwick.ac.uk/services/sport/active/climbing) is £6, then entry is £6.50 off-peak or £9.50 on-peak. You will also need to rent climbing shoes. Paying these fees allows you to use the bouldering wall (the shorter walls above crash mats where there are no ropes). If you want to try roped climbing then you can pay £34 for the staff to give you a taster session (this price drops if more than one of you is doing a taster) and £6 for registration. No discounts are available for students.
+
+# The Ballroom
+
+[The Ballroom](https://www.ballroomclimbing.co.uk/) is located in Coventry city centre. Registration at the Ballroom costs £3 and entry is £7.50 for students. You will need to rent climbing shoes which also costs £3. A return bus ticket into Coventry costs £3.30. If you drive then the nearest car-park is Bishop Street; it costs £1 to park here after 6PM and on Sundays (see [here](https://www.coventry.gov.uk/directory_record/11432/bishop_street_tower_street_car_park) for prices at other times).
+
+# Flash Climbing
+
+[Flash Climbing](https://flashclimbingcentre.co.uk/) is located in Solihull but a good option to those with cars. 30 minutes drive from Leamington Spa, 25 from Kenilworth, 20 from campus. Entry for students is £6 and shoe hire is £2. There are no registration fees. 
+
+# Leamington Clip N Climb
+If you're just looking for a laugh and aren't wanting to do serious climbing then you may wish to consider the [Clip N Climb at the Newbold Comyn Leisure Centre](https://www.everyoneactive.com/centre/newbold-comyn-leisure-centre/?activitySearch=Clip%20n%20climb). It's designed for kids but adults are allowed to try it too. Peak price is £8 and off-peak is £12.50. Much less serious but much, much cheaper than the Sport and Wellness Club.

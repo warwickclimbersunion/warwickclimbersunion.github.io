@@ -1,0 +1,75 @@
+---
+title: "Weatherproof Crags"
+description: | 
+  Options for getting outside despite the rain.
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+There are two classes of weather-proof venues. The first are steep and overhanging crags that are typically home to hard boulder problems and sport climbs. The second are artificial structures with ceilings, such as bridges and buildings. 
+
+# Weather-Proof Crags
+### Forest Rock, Charnwood, Leicestershie
+
+### Wright's Rock, Churnet Valley, Staffordshire
+
+### Biblins Cave, Forest of Dean, Herefordshire
+
+### Raven Tor, Peak District, Derbyshire
+
+### Water-Cum-Jolly (Rubicon), Peak District, Derbyshire
+
+### Anston Stones Wood, South Yorkshire
+
+### Ippikins Rock, Wenlock Edge, Shropshire
+
+
+# Artificial Structures
+### Robo's Bridge, Marston Green, West Midlands
+
+### Rothley Brook Bridge, Charnwood, Leicestershire
+
+### The Engineering Department, University of Warwick
+
+
+```{r, echo=FALSE, results = 'asis'}  
+library(leaflet)
+
+hill_icons <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/mountain_26f0.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+bridge_icons <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/bridge-at-night_1f309.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+building_icons <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/265/office-building_1f3e2.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+uni_icons  <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/graduation-cap_1f393.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=51.83470, lng=-2.65850, popup="Biblins Cave <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=52.72285, lng=-1.21504, popup="Forest Rock <br> Type: Crag <br> Rocktype: Slatey Tuff", icon = hill_icons) %>%
+  addMarkers(lat=52.98562, lng=-1.90854, popup="Wright's Rock <br> Type: Crag <br> Rocktype: Sandstone", icon = hill_icons) %>%
+  addMarkers(lat=53.25626, lng=-1.77604, popup="Raven Tor <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=53.25120, lng=-1.75140, popup="Water-Cum-Jolly (Rubicon) <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=53.34410, lng=-1.20870, popup="Anston Stones Wood <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=52.56420, lng=-2.63580, popup="Ippikins Rock <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=52.46900, lng=-1.75940, popup="Robo's Bridge <br> Type: Bridge <br> Rocktype: Red Brick", icon = bridge_icons) %>%
+  addMarkers(lat=52.71442, lng=-1.12540, popup="Rothley Brook Bridge <br> Type: Bridge <br> Rocktype: Concrete", icon = bridge_icons) %>%
+  addMarkers(lat=52.38261, lng=-1.56117, popup="Engineering Department <br> Type: Building <br> Rocktype: Blue Brick", icon = building_icons) %>%
+  addMarkers(lat=52.37778, lng=-1.5699, popup="University of Warwick", icon = uni_icons)
+
+
+
+```
