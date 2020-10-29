@@ -1,0 +1,22 @@
+---
+title: "Quick-Drying Crags"
+description: | 
+  Options for getting outside soon after rain.
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+
+
+# Peak District
+### The Eastern Edges
+
+### The Roaches
+
+# Wye Valley
+### Wyndcliff Quarry
+
+
+# Leicestershire
+### Beacon Hill

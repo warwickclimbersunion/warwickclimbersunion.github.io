@@ -7,30 +7,40 @@ output:
     css: style.css
 ---
 
-There are two classes of weather-proof venues. The first are steep and overhanging crags that are typically home to hard boulder problems and sport climbs. The second are artificial structures with ceilings, such as bridges and buildings. 
+This article details the outdoor options available to University of Warwick students when it is, or has been, raining. There are two classes of weather-proof venues. The first are steep and overhanging crags that are typically home to hard boulder problems and sport climbs. The second are artificial structures with ceilings, such as bridges and buildings. 
 
 # Weather-Proof Crags
-### Forest Rock, Charnwood, Leicestershie
+### Forest Rock, Charnwood, Leicestershire
+The problems from Sorcerer to Sorceress are permanently dry aside from some dryable drips. The problems further into the cave are more uncertain, sometimes they can be bone dry despite recent torrential rain and sometimes they can be inexplicably wet during a dry spell. Luckily Forest Rock is only 45 minutes from campus so it's not the end of the world if it's wet. There is usually something to do that is dry and worse comes to worst you can always drive over to Rothley Brook Bridge for some truly perma-dry action.
 
 ### Wright's Rock, Churnet Valley, Staffordshire
+A good option if it's forecast to rain but less good if it has been lashing it down for a few days as significant drips will write off whole problems. Gentleman's Rock down in Dimming's Dale is a similar option.
 
 ### Biblins Cave, Forest of Dean, Herefordshire
+Only open from 1st May to 30th September. Pop For The Top does get wet from rain but the other problems don't get wet other than from condensation. 
 
 ### Raven Tor, Peak District, Derbyshire
+Reliably dry once it has dried out in Spring, but iffy in late Autumn and Winter. Much of the sport climbing will stay dry in the rain during the summer too. Ben's Roof is famous for being climbable no matter the conditions. Blackwell Dale is also worth a look as you drive past it on the way to Raven Tor from Coventry. 
 
 ### Water-Cum-Jolly (Rubicon), Peak District, Derbyshire
+Reliably dry but the approach area can go underwater if there has been a deluge. Kudos Wall does not get wet from rain and the floor is higher than the approach, so if you have some wellies to get past the flooded approach it can be a good option. In very wet periods even the wall under Kudos can flood. The [River Wye GaugeMap](https://www.gaugemap.co.uk/?fbclid=IwAR0nQ9bSNGCOSKNVHkBpbZTpL6i8pY7VHmDkfWeVEcQoUtLISPp1OZ8nyZY#!Map/Summary/131/137) keeps track of the river level and will indicate if the river has flooded.
 
 ### Anston Stones Wood, South Yorkshire
+Dark Art roof never gets wet from rain. Ebola Buttress and Wave Wall will stay dry in the rain but suffer from seepage.
 
 ### Ippikins Rock, Wenlock Edge, Shropshire
+Ippikins Rock was once [fully developed as a bouldering crag](https://ukbouldering.com/board/index.php/topic,15156.msg310418.html#msg310418) but the topo is now unavailable. The best line is [Karfi f7C](https://www.youtube.com/watch?v=rZLCGfMzYAM). Included here because I reckon the bouldering here would stay dry in the rain.  Worth a look on a dry day to see if you want to gamble on it down the line.
 
 
 # Artificial Structures
 ### Robo's Bridge, Marston Green, West Midlands
+The 'rock' stays dry but if it's windy the rain can blow in and soak your pads. Only 15 mins from campus and the problems are surprisingly good considering the medium.
 
 ### Rothley Brook Bridge, Charnwood, Leicestershire
+Perma-dry layback crack problem. Three star movement, zero star location. Worth visiting if you get rained off something in Leicestershire but don't have the beans for Forest Rock.
 
 ### The Engineering Department, University of Warwick
+Several surprisingly good problems around the Engineering Department. Permanently dry and floodlit. One for the first year to get done while still in halls or for the car-less to do while wishing they had learned to drive in sixth form. 
 
 
 ```{r, echo=FALSE, results = 'asis'}  

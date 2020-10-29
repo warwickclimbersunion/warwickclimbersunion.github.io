@@ -29,6 +29,8 @@ navbar:
             href: "https://docs.google.com/document/d/1ctIkZKDad1aJsTJjsjqHJzGAk1p01oMxMGzSKJdyhq0/"
           - text: "Weatherproof Crags"
             href: "weatherproof_crags.html"
+          - text: "Quick-Drying Crags"
+            href: "quick_drying_crags.html"
           - text: 'Training Tips:'
           - text: "The Training Board"
             href: "https://warwickclimbing.co.uk/about/training/theboard/"
