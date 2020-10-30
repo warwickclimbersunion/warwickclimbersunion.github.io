@@ -20,6 +20,8 @@ navbar:
     - text: "Articles"
       menu:
           - text: 'Money Saving Tips:'
+          - text: "The Cheapest Ways To Try Out Climbing"
+            href: "taster.html"
           - text: "What Memberships Should I Buy?"
             href: "price.html"
           - text: "Saving Money On Climbing Gear"
