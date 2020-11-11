@@ -7,7 +7,7 @@ output:
     css: style.css
 ---
 
-Crags which are exposed to the wind and are south facing dry fastest. A crag will dry fastest if the wind is high and blowing directly onto it. If the humidity is in the 90%+ range then it is likely there is fog or mist sitting over the crag and this can mean that it won't dry. Remember [not to climb on wet sandstone or gritstone](https://www.ukclimbing.com/articles/skills/series/respecttherock/chalk_use-9892) as this will permanently damage the rock.
+Crags which are exposed to the wind and are south facing dry fastest. A crag will dry fastest if the wind is high and blowing directly onto it. If the humidity is in the 95%+ range then it is likely there is fog or mist sitting over the crag and this can mean that it won't dry. Remember [not to climb on wet sandstone or gritstone](https://www.ukclimbing.com/articles/skills/series/respecttherock/chalk_use-9892) as this will permanently damage the rock.
 
 [The Met Office](https://www.metoffice.gov.uk/) are the best source for weather data and they get the forecast right more often than not. It's worth downloading the smartphone app and storing these crag locations so you can easily compare the forecasts on wet-looking weekends.
 
@@ -27,8 +27,49 @@ The main wall at [Horseshoe Quarry](https://www.ukclimbing.com/logbook/crags/hor
 
 # Leicestershire
 ### Beacon Hill
-[Beacon Hill](https://www.ukclimbing.com/logbook/crags/beacon_hill_leicestershire-1170) is very exposed to the wind and sun. There is vegetation to retain moisture above the crag, an now trees below it to shield it from the wind and sun. The rock is volcanic and does not absorb moisture. As a result Beacon Hill dries almost instantly. The nearest forecast is for [Copt Oak Youth Hostel](https://www.metoffice.gov.uk/weather/forecast/gcr5fgdhm).
+[Beacon Hill](https://www.ukclimbing.com/logbook/crags/beacon_hill_leicestershire-1170) is very exposed to the wind and sun. There is vegetation to retain moisture above the crag, an now trees below it to shield it from the wind and sun. The rock is volcanic and does not absorb moisture. As a result Beacon Hill dries almost instantly. Its only 45 minutes drive away from campus and is a great option when you have a free evening or half-day. The nearest forecast is for [Copt Oak Youth Hostel](https://www.metoffice.gov.uk/weather/forecast/gcr5fgdhm).
 
 # Nottinghamshire
 ### Pleasley Vale
 [Pleasley Vale](https://www.ukclimbing.com/logbook/crags/pleasley_vale-1378) faces south and if sun follows rain you can watch it dry before your eyes. It's also fairly overhanging so the bouldering may stay dry and you can get on that while the trad routes dry out. The nearest forecast is for [Mansfield Woodhouse](https://www.metoffice.gov.uk/weather/forecast/gcrnkywg8).
+
+
+```{r, echo=FALSE, results = 'asis'}  
+library(leaflet)
+
+hill_icons <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/mountain_26f0.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+uni_icons  <- icons(
+  iconUrl = "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/joypixels/257/graduation-cap_1f393.png",
+  iconWidth = 30, iconHeight = 30
+)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=53.34280, lng=-1.63410, popup="Stanage Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.38270, lng=-1.68030, popup="Derwent Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.26870, lng=-1.60810, popup="Curbar Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.34310, lng=-1.61050, popup="Burbage Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.29380, lng=-1.61860, popup="Froggatt Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.24540, lng=-1.58160, popup="Birchen Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  
+  addMarkers(lat=53.15650, lng=-1.99560, popup="The Roaches <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  addMarkers(lat=53.15460, lng=-1.99310, popup="Hen Cloud <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%
+  
+  addMarkers(lat=53.28037, lng=-1.69075, popup="Horeshoe Quarry <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=53.23030, lng=-1.90720, popup="Harpur Hill <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  
+  addMarkers(lat=51.67360, lng=-2.68150, popup="Wyndcliff Quarry <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  
+  addMarkers(lat=52.72940, lng=-1.24920, popup="Beacon Hill <br> Type: Crag <br> Rocktype: Hornstone", icon = hill_icons) %>%
+  
+  addMarkers(lat=53.18040, lng=-1.21300, popup="Pleasley Vale <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  
+  addMarkers(lat=52.37778, lng=-1.5699, popup="University of Warwick", icon = uni_icons)
+
+
+
+```
