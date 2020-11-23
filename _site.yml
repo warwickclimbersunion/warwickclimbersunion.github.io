@@ -28,7 +28,7 @@ navbar:
             href: "gear.html"
           - text: 'Outdoor Tips:'
           - text: "Lamp Sessions"
-            href: "https://docs.google.com/document/d/1ctIkZKDad1aJsTJjsjqHJzGAk1p01oMxMGzSKJdyhq0/"
+            href: "lamp_sessions.html"
           - text: "Weatherproof Crags"
             href: "weatherproof_crags.html"
           - text: "Quick-Drying Crags"
