@@ -59,5 +59,8 @@ navbar:
             href: "https://www.ukclimbing.com/logbook/set.php?id=2547"
     - text: "Contact"
       href: contact.html
-output: distill::distill_article
+output:
+    distill::distill_article:
+      includes:
+        in_header: header.html
 ---
