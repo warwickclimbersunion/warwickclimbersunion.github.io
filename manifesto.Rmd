@@ -1,5 +1,16 @@
 ---
 title: "The WUCU Manifesto"
+keywords:
+  - warwick university
+  - climbing
+  - students
+  - union
+  - manifesto
+  - outdoor climbing
+  - costs
+  - price
+  - warwick sport
+  - warwick students union
 ---
 
 <style>
