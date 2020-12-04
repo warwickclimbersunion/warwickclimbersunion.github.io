@@ -2,6 +2,24 @@
 title: "What Memberships Should I Buy?"
 description: | 
   A full cost breakdown for the most common membership options for Warwick University students.
+keywords:
+  - warwick university
+  - warwick university climbers union
+  - climbing
+  - students
+  - union
+  - outdoor climbing
+  - warwick sport
+  - warwick students union
+  - fees
+  - costs
+  - membership
+  - cheapest
+  - wucc
+  - warwick university climbing club
+  - club pass
+  - sports federation
+  - registration
 output: 
   distill::distill_article:
     css: style.css

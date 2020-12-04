@@ -2,6 +2,17 @@
 title: "Quick-Drying Crags"
 description: | 
   Locations where you can climb outside soon after rain.
+keywords:
+  - warwick university
+  - warwick university climbers union
+  - climbing
+  - students
+  - union
+  - outdoor climbing
+  - warwick sport
+  - warwick students union
+  - quick-drying crags
+  - rain
 output: 
   distill::distill_article:
     css: style.css

@@ -2,6 +2,22 @@
 title: "Saving Money On Climbing Gear"
 description: | 
   The best places in Coventry to buy cheap gear and other cash-saving tips.
+keywords:
+  - warwick university
+  - warwick university climbers union
+  - climbing
+  - students
+  - union
+  - outdoor climbing
+  - warwick sport
+  - warwick students union
+  - cheap
+  - equipment
+  - gear
+  - coventry
+  - leamington
+  - discounts
+  - money saving
 output: 
   distill::distill_article:
     css: style.css
