@@ -23,10 +23,10 @@ output:
   <div class="column">
     <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
   </div>
-  <div class="column">
-    <b>Favourite Climbing Trip:</b>
+  <div class="column2">
+    <b>Favourite Climbing Trip:</b> Every time I go to Sports Hub, such value for money!
     <br><br>
-    <b>Biggest Epic:</b>
+    <b>Biggest Epic:</b> When I fell off on top rope on the feature wall and skinned my knee.
   </div>
 </div>
 <!--/html_preserve-->
@@ -38,7 +38,7 @@ output:
     <img src="images/charles.png" alt="Spaghettinoodle" style="width:100%">
   </div>
   <div class="column2">
-    <b>Favourite Climbing Trip:</b>
+    <b>Favourite Climbing Trip:</b> Horseshoe Quarry.
     <br><br>
     <b>Biggest Epic:</b> Being called a noodle.
   </div>
@@ -51,10 +51,10 @@ output:
   <div class="column">
     <img src="images/trigg.png" alt="Trigg Sharp" style="width:100%">
   </div>
-  <div class="column">
-    <b>Favourite Climbing Trip:</b>
+  <div class="column2">
+    <b>Favourite Climbing Trip:</b> Corley Rocks, better than Southern Sandstone for sure.
     <br><br>
-    <b>Biggest Epic:</b>
+    <b>Biggest Epic:</b> Getting banned from the Sports Hub.
   </div>
 </div>
 <!--/html_preserve-->
@@ -66,9 +66,9 @@ output:
     <img src="images/archie.png" alt="Archie Campbell" style="width:100%">
   </div>
   <div class="column2">
-    <b>Favourite Climbing Trip:</b>
+    <b>Favourite Climbing Trip:</b> Sassenach on Ben Nevis.
     <br><br>
-    <b>Biggest Epic:</b>
+    <b>Biggest Epic:</b> Being colonised by the English.
   </div>
 </div>
 <!--/html_preserve-->
