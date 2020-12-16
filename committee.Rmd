@@ -1,0 +1,75 @@
+---
+title: "The Committee"
+description: | 
+  Your trip organisers and representatives.
+keywords:
+  - warwick university
+  - warwick university climbers union
+  - climbing
+  - students
+  - union
+  - outdoor climbing
+  - warwick sport
+  - warwick students union
+  - home
+  - committee
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+# Edward Plumb - President
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
+  </div>
+  <div class="column">
+    <b>Favourite Climbing Trip:</b>
+    <br><br>
+    <b>Biggest Epic:</b>
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Charlie Henderson - Chairman
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/charles.png" alt="Spaghettinoodle" style="width:100%">
+  </div>
+  <div class="column">
+    <b>Favourite Climbing Trip:</b>
+    <br><br>
+    <b>Biggest Epic:</b>
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Trigg Sharp - Treasurer
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/charles.png" alt="Spaghettinoodle" style="width:100%">
+  </div>
+  <div class="column">
+    <b>Favourite Climbing Trip:</b>
+    <br><br>
+    <b>Biggest Epic:</b>
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Archie Campbell - Secretary
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/charles.png" alt="Spaghettinoodle" style="width:100%">
+  </div>
+  <div class="column">
+    <b>Favourite Climbing Trip:</b>
+    <br><br>
+    <b>Biggest Epic:</b>
+  </div>
+</div>
+<!--/html_preserve-->

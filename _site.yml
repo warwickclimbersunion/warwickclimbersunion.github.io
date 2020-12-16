@@ -17,6 +17,8 @@ navbar:
       href: trips.html
     - text: "FAQ"
       href: faq.html
+    - text: "Committee"
+      href: committee.html
     - text: "Articles"
       menu:
           - text: 'Money Saving Tips:'
