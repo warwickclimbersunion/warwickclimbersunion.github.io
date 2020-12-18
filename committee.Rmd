@@ -24,7 +24,7 @@ output:
     <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
   </div>
   <div class="column2">
-  Ed is a fourth year Mathematics student and is the current Vice President of Warwick University Climbing Club. As President he is the head of the union and chief organiser of trips into the great outdoors.
+  Ed is a fourth year Mathematics student and is the current Vice President of Warwick University Climbing Club. As President he is the head of WUCU and chief organiser of trips into the great outdoors.
   <br><br>
   <b>Favourite Climb:</b> 
   </div>
@@ -52,7 +52,7 @@ output:
     <img src="images/trigg.png" alt="Trigg Sharp" style="width:100%">
   </div>
   <div class="column2">
-  Trigg is a third year Engineering student. As treasurer he is responsible for helping to organise trips, managing the union's bank account and the collection and distribution of petrol money for trip drivers.
+  Trigg is a third year Engineering student. As treasurer he is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
   <br><br>
   <b>Favourite Climb:</b> "After hearing rumours of a king line established in Warwickshire, I stocked up on psych by watching every Reel Rock film over the course of two days. Filled with psych and a hardened resolve to become a climbing icon, we went to Corley Rocks to eventually free one of the most inspiring lines of our times: <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport</a>. This line shaped my journey in climbing and provided a near out-of-body spiritual experience as I topped out."
   </div>
