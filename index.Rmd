@@ -21,7 +21,7 @@ output:
 Welcome to the WUCU website! 
 
 # Our Mission
-We are an organisation for student and alumni climbers that is independent of Warwick SU and Warwick Sport. We organise cheap climbing trips to the Peak District, the Wye Valley, Leicestershire and beyond! We actively lobby on behalf of the interests of student climbers and act as a support network for all student climbers. 
+We are an organisation for student and alumni climbers that is independent of Warwick SU and Warwick Sport. We organise cheap climbing trips to the Peak District, the Wye Valley, Leicestershire and beyond! 
 
 For more information please see [our manifesto](manifesto.html).
 
@@ -29,21 +29,18 @@ If you're interested in coming outside with us then check out [our trips page](t
 
 <br>
 
-```{r, echo=FALSE, fig.align='center', out.width = '40%'}
-library(knitr)
-include_graphics("images/logo2.png")
-```
-
-
 ```{r slideshow, echo = FALSE, warning = FALSE, message = FALSE, layout="l-screen", out.height='401px', out.width='100%', fig.align='center'}
-#library(htmlwidgets)
-#library(slickR)
+library(htmlwidgets)
+library(slickR)
 
 # Get image locations from slideshow directory.
 # Add images to the slideshow directory and they will be displayed here.
-#slideshow_image_paths <- paste0("images/slideshow/", list.files("images/slideshow"))
+slideshow_image_paths <- paste0("images/slideshow/", list.files("images/slideshow"))
 
 # Build the slideshow using the slickR package.
-#slickR(obj = slideshow_image_paths, height = "400px", width = "100%") + 
-#  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = TRUE)
+slickR(obj = slideshow_image_paths, height = "400px", width = "100%") + 
+  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = TRUE)
 ```
+
+
+

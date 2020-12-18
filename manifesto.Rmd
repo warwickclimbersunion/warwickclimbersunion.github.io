@@ -27,3 +27,10 @@ If you do not already know how to climb then this could very well be good value 
 It is clear that these fees are prohibitive. The solution to this problem is an organisation which will run outdoor climbing trips that is unaffiliated with Warwick SU and Warwick Sport. Members of the unaffiliated organisation would not have to pay the extortionate Sports Federation or Club Pass fees. The elimination of these costs means students are more likely to be able to afford to climb both indoors and outdoors. This organisation would also give students who are priced out of WUCC membership something they can afford to belong to and to provide them with a sense of community.
 
 **This is our mission: to be an organisation which facilitates access to outdoor climbing for students regardless of their economic circumstances or background.**
+
+<br>
+
+```{r, echo=FALSE, fig.align='center', out.width = '40%'}
+library(knitr)
+include_graphics("images/logo2.png")
+```
