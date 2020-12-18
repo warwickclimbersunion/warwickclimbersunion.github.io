@@ -66,7 +66,7 @@ output:
     <img src="images/archie.png" alt="Archie Campbell" style="width:100%">
   </div>
   <div class="column2">
-  Archie is a third year English Literature student. As secretary he is responsible for keeping the BMC up to date with who are members are and corresponding with WUCU members on behalf of the committee.
+  Archie is a third year Mechanical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
     <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/ben_nevis-16877/sassenach-484" target="_blank">Sassenach, Ben Nevis.</a>
   </div>
 </div>
