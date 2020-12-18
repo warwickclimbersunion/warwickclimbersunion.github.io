@@ -54,7 +54,7 @@ output:
   <div class="column2">
   Trigg is a third year Engineering student. As treasurer he is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
   <br><br>
-  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks.</a>
+  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
   </div>
 </div>
 <!--/html_preserve-->
@@ -67,7 +67,8 @@ output:
   </div>
   <div class="column2">
   Archie is a third year Mechanical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
-    <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/ben_nevis-16877/sassenach-484" target="_blank">Sassenach, Ben Nevis.</a>
+    <br><br>
+    <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/ben_nevis-16877/sassenach-484" target="_blank">Sassenach, Ben Nevis</a>
   </div>
 </div>
 <!--/html_preserve-->
