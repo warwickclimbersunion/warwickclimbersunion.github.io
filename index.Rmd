@@ -39,7 +39,7 @@ slideshow_image_paths <- paste0("https://warwickclimbersunion.co.uk/images/slide
 
 # Build the slideshow using the slickR package.
 slickR(obj = slideshow_image_paths, height = "400px", width = "100%") + 
-  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = TRUE, variableWidth = TRUE, centerMode = TRUE)
+  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = FALSE)
 ```
 
 
