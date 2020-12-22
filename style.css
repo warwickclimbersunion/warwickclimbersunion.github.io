@@ -23,7 +23,7 @@ d-title h1 {
 }
 
 media only screen and (max-width: 40.0625em) {
-.wpsisac-slick-carousal.design-6 .slick-image-slide img{
+.slickR .html-widget img{
   height:200px !important;
   width: auto !important;}
 }
