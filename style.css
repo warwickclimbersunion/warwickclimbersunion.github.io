@@ -23,7 +23,7 @@ d-title h1 {
 }
 
 media only screen and (max-width: 40.0625em) {
-.slickR .html-widget img{
+.layout-chunk img{
   height:200px !important;
   width: auto !important;}
 }
