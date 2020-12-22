@@ -29,7 +29,7 @@ If you're interested in coming outside with us then check out [our trips page](t
 
 <br>
 
-```{r slideshow, echo = FALSE, warning = FALSE, message = FALSE, layout="l-screen"}
+```{r slideshow, echo = FALSE, warning = FALSE, message = FALSE}
 library(htmlwidgets)
 library(slickR)
 
@@ -38,8 +38,8 @@ library(slickR)
 slideshow_image_paths <- paste0("https://warwickclimbersunion.co.uk/images/slideshow/", list.files("images/slideshow"))
 
 # Build the slideshow using the slickR package.
-slickR(obj = slideshow_image_paths, height = "400px", width = "100%") + 
-  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, adaptiveHeight = TRUE, mobileFirst = FALSE)
+slickR(obj = slideshow_image_paths, width = "100%", height = "auto") + 
+  settings(arrows = TRUE, dots = TRUE, autoplay = TRUE, autoplaySpeed = 3000, mobileFirst = TRUE)
 ```
 
 
