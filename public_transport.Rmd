@@ -11,12 +11,12 @@ keywords:
 - outdoor climbing
 - warwick sport
 - warwick students union
-- lamp sessions
-- leicestershire
-- night climbing
-- night
-- dark
 - local
+- west midlands
+- warwickshire
+- public transport
+- train
+- bike
 output: 
   distill::distill_article:
     css: style.css
