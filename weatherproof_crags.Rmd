@@ -72,7 +72,7 @@ embed_youtube("rZLCGfMzYAM", width = 560, height = 500)
 ```
 
 ### Masson Lees Quarry, Matlock, Derbyshire
-[Masson Lees Quarry](https://www.ukclimbing.com/logbook/crags/masson_lees_quarry-2975) is the closest crag with a designated dry-tooling section. 
+[Masson Lees Quarry](https://www.ukclimbing.com/logbook/crags/masson_lees_quarry-2975) is the closest crag with a designated dry-tooling section. If you're after something more adventurous you can try [Chocolate Blancmange Gully](https://www.ukclimbing.com/logbook/crags/horseshoe_quarry-148/chocolate_blancmange_gully-139878) at Horseshoe Quarry.
 
 ```{r, fig.asp=2}
 library(vembedr)
@@ -96,7 +96,7 @@ embed_youtube("fcXAAyDLmtg", width = 560, height = 500)
 ### The Engineering Department, University of Warwick
 Several surprisingly good problems around the [Engineering Department](https://www.ukclimbing.com/logbook/crags/warwick_sport_rock_garden-24998). Permanently dry and floodlit. One for the first year to get done while still in halls or for the car-less to do while wishing they had learned to drive in sixth form. 
 
-
+<center>
 ```{r, echo=FALSE, results = 'asis'}  
 library(leaflet)
 
@@ -129,11 +129,11 @@ leaflet() %>%
   addMarkers(lat=53.25120, lng=-1.75140, popup="Water-Cum-Jolly (Rubicon) <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
   addMarkers(lat=53.34410, lng=-1.20870, popup="Anston Stones Wood <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
   addMarkers(lat=52.56420, lng=-2.63580, popup="Ippikins Rock <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
+  addMarkers(lat=53.1271, lng=-1.5708, popup="Masson Lees Quarry <br> Type: Crag <br> Rocktype: Limestone", icon = hill_icons) %>%
   addMarkers(lat=52.46900, lng=-1.75940, popup="Robo's Bridge <br> Type: Bridge <br> Rocktype: Red Brick", icon = bridge_icons) %>%
   addMarkers(lat=52.71442, lng=-1.12540, popup="Rothley Brook Bridge <br> Type: Bridge <br> Rocktype: Concrete", icon = bridge_icons) %>%
   addMarkers(lat=52.38261, lng=-1.56117, popup="Engineering Department <br> Type: Building <br> Rocktype: Blue Brick", icon = building_icons) %>%
   addMarkers(lat=52.37778, lng=-1.5699, popup="University of Warwick", icon = uni_icons)
 
-
-
 ```
+</center>

@@ -35,6 +35,8 @@ navbar:
             href: "weatherproof_crags.html"
           - text: "Quick-Drying Crags"
             href: "quick_drying_crags.html"
+          - text: "Crags by Public Transport"
+            href: "public_transport.html"
           - text: 'Training Tips:'
           - text: "The Training Board"
             href: "https://warwickclimbing.co.uk/about/training/theboard/"
