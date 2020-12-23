@@ -71,7 +71,7 @@ library(vembedr)
 embed_youtube("rZLCGfMzYAM", width = 560, height = 500)
 ```
 
-### Masson Lees Quarry, Derbyshire
+### Masson Lees Quarry, Matlock, Derbyshire
 [Masson Lees Quarry](https://www.ukclimbing.com/logbook/crags/masson_lees_quarry-2975) is the closest crag with a designated dry-tooling section. 
 
 ```{r, fig.asp=2}

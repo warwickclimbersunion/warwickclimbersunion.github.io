@@ -3,6 +3,7 @@ title: "Warwick University Climbers' Union"
 description: | 
   Keeping money in student climbers' pockets.
 keywords:
+  - warwick university climbing
   - warwick university
   - warwick university climbers union
   - climbing
