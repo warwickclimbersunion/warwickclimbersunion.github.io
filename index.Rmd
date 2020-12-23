@@ -19,6 +19,12 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
+
 Welcome to the WUCU website! 
 
 # Our Mission

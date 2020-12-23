@@ -26,7 +26,11 @@ output:
 ol ul {
     margin-bottom: 10px;
 }
+
+body {
+text-align: justify}
 </style>
+
 
 With the days growing shorter and the clocks about to go back, the possibility of heading out bouldering after lectures/work seems to have gone until Spring. However, for a relatively small amount of money, you can continue to get outside in the evening. Below is some information on what you will need to get started with local lamp sessions, including a list of popular local crags detailing their suitability for lamping and their council district so you can check local lockdown rules.
 

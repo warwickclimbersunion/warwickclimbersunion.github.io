@@ -18,6 +18,12 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
+
 Crags which are exposed to the wind and are south facing dry fastest. A crag will dry fastest if the wind is high and blowing directly onto it. If the humidity is in the 95%+ range then it is likely there is fog or mist sitting over the crag and this can mean that it won't dry. Remember [not to climb on wet sandstone or gritstone](https://www.ukclimbing.com/articles/skills/series/respecttherock/chalk_use-9892) as this will permanently damage the rock. If the forecast is really windy then take some tent pegs to fix your pads down so they won't blow away.
 
 [The Met Office](https://www.metoffice.gov.uk/) are the best source for weather data and they get the forecast right more often than not. It's worth downloading the smartphone app and storing these crag locations so you can easily compare the forecasts on wet-looking weekends.

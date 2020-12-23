@@ -18,6 +18,12 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
+
 This article details the outdoor options available to University of Warwick students when it is, or has been, raining. There are two classes of weather-proof venues. The first are steep and overhanging crags that are typically home to hard boulder problems and sport climbs. The second are artificial structures with ceilings, such as bridges and buildings. 
 
 # Weather-Proof Crags

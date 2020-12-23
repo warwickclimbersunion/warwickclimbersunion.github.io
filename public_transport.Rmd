@@ -17,6 +17,8 @@ keywords:
 - public transport
 - train
 - bike
+- coventry
+- leamington
 output: 
   distill::distill_article:
     css: style.css
@@ -28,7 +30,7 @@ text-align: justify}
 </style>
 
 
-The car-less life is tough and sometimes it's hard to face the heat and atmosphere of the Sport and Wellness Hub. Luckily there are plenty of options for climbing outside in the local area. None of these crags are brilliant but they always leave you with memorable experiences; experiences that only students stranded at the University of Warwick will ever have. Sometimes a trip during a tough week to somewhere local can be even more satisfying and meaningful than a conventional trip to somewhere like the Peak. It is local adventures such as these that you will laugh about with your mates in the years to come, and that make the experience of being Warwick climber truly unique.
+The car-less life is tough and sometimes it's hard to face the heat and atmosphere of the Sport and Wellness Hub. Luckily there are plenty of options for climbing outside in the local area. None of these crags are brilliant but they always leave you with memorable experiences, experiences that only students stranded at the University of Warwick will ever have. Sometimes a trip during a tough week to somewhere local can be even more satisfying and meaningful than a conventional trip to somewhere like the Peak. It is local adventures such as these that you will laugh about with your mates in the years to come, and that make the experience of being a Warwick climber truly unique.
 
 # By Train
 ### The Bournebrook Wall, Birmingham
