@@ -41,7 +41,7 @@ include_graphics("images/trigg.jpg")
 
 ## What you will need:
 
-1. A 10-20W portable, cordless, rechargeable work lamp (about £20 from Amazon; [this is the one I have](https://www.amazon.co.uk/dp/B075XMQVVD/ref=pe_3187911_189395841_TE_dp_1)).
+1. A 10-20W portable, cordless, rechargeable work lamp (about £20 from Amazon; [this is the one I have](https://www.amazon.co.uk/dp/B075XMQVVD/ref=pe_3187911_189395841_TE_dp_1){target="_blank"}).
 2. A head torch (ideally one per person).
 3. (Optional) A second lamp to reduce shadowing. Bike lights also work well.
 

@@ -32,11 +32,11 @@ text-align: justify}
 
 Below is a flowchart to help you determine the cost of climbing memberships for University of Warwick students. If you are limited by your budget you can look along the prices at the bottom and work backwards.
 
-If you are already part of another sports club you will not need to pay the Sports Federation and some or all of the Club Pass fees. If you're planning to join WUCC anyway then it will only cost £6 to join any other sports club; many climbers take advantage of this and also join [Warwick Mountains](https://www.warwickmountains.com/). They will teach you to navigate in the hills, and if you go on their Scotland winter tour you will learn the basics of winter mountaineering and climbing.
+If you are already part of another sports club you will not need to pay the Sports Federation and some or all of the Club Pass fees. If you're planning to join WUCC anyway then it will only cost £6 to join any other sports club; many climbers take advantage of this and also join [Warwick Mountains](https://www.warwickmountains.com/){target="_blank"}. They will teach you to navigate in the hills, and if you go on their Scotland winter tour you will learn the basics of winter mountaineering and climbing.
 
-If you're unsure on the difference between WUCC and WUCU trips, or have any other questions, then please feel free to [get in touch](contact.html).
+If you're unsure on the difference between WUCC and WUCU trips, or have any other questions, then please feel free to [get in touch](contact.html){target="_blank"}.
 
-**Note:** this chart doesn't include possibilities such as having an ["inclusive" membership](https://warwick.ac.uk/services/sport/join/student-memberships/) which include off-peak climbing, [pay-as-you-go use](https://warwick.ac.uk/services/sport/active/climbing/#prices) (which may be cheapest if you only go a few times per term outside club hours), or membership at [the Ballroom](https://www.ballroomclimbing.co.uk/) in Coventry city centre. If you use the gym, don't go often, or live in Coventry then these options should also be considered.
+**Note:** this chart doesn't include possibilities such as having an ["inclusive" membership](https://warwick.ac.uk/services/sport/join/student-memberships/){target="_blank"} which include off-peak climbing, [pay-as-you-go use](https://warwick.ac.uk/services/sport/active/climbing/#prices){target="_blank"} (which may be cheapest if you only go a few times per term outside club hours), or membership at [the Ballroom](https://www.ballroomclimbing.co.uk/){target="_blank"} in Coventry city centre. If you use the gym, don't go often, or live in Coventry then these options should also be considered.
 
 ```{r, echo=FALSE, results = 'asis', layout="l-screen-inset", fig.height=9}                  
 DiagrammeR::grViz("digraph {
