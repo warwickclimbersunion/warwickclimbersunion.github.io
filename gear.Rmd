@@ -23,6 +23,10 @@ output:
     css: style.css
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
 
 # Go Outdoors
 There is a [Go Outdoors store](https://www.gooutdoors.co.uk/stores/coventry) next to Canley station. It is only half an hour walk from campus or alternatively you can catch catch the [free shuttle bus](https://warwick.ac.uk/services/estates/transport/buses/shuttlebus/) to the station.

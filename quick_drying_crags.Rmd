@@ -95,6 +95,8 @@ uni_icons  <- icons(
   iconWidth = 30, iconHeight = 30
 )
 
+
+
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lat=53.34280, lng=-1.63410, popup="Stanage Edge <br> Type: Crag <br> Rocktype: Gritstone", icon = hill_icons) %>%

@@ -6,6 +6,11 @@ output:
   distill::distill_article:
     css: style.css
 ---
+
+<style>
+body {
+text-align: justify}
+</style>
   
 
 ## Through WUCC
