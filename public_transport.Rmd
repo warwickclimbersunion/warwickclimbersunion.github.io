@@ -99,6 +99,11 @@ library(vembedr)
 embed_youtube("-RubEL7sqZg", width = 560, height = 500)
 ```
 
+### Coventry
+The city centre has plenty of things to climb about on. Pictured here are [Basilica by Paul De Menchaux](https://www.coventrysociety.org.uk/public-art-in-coventry/basilica-by-paul-de-monchaux.html){target="_blank"} (Portland Limestone) and [Herbert Crack](https://goo.gl/maps/hzn2Grwmcf21qnzv5){target="_blank"} (sandstone, loose top hold). There is plenty more to be discovered.
+
+![](images/courts.jpeg){ width=49% } ![](images/herbert_crack.jpeg){ width=49% }
+
 ### Map
 <center>
 ```{r, echo=FALSE, results = 'asis'}  
