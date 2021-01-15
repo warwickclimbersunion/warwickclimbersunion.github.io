@@ -7,7 +7,7 @@ navbar:
   title: "Warwick University Climbers' Union"
   logo:
     image: images/logo.png
-    href: https://www.rstudio.com
+    href: index.html
   right:
     - text: "Home"
       href: index.html
