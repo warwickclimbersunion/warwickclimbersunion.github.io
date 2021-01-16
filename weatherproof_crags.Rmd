@@ -107,6 +107,9 @@ A recently discovered bridge crack over the Grand Union Canal. First traversed b
 ### The Engineering Department, University of Warwick
 Several surprisingly good problems around the [Engineering Department](https://www.ukclimbing.com/logbook/crags/warwick_sport_rock_garden-24998){target="_blank"}. Permanently dry and floodlit. One for the first year to get done while still in halls or for the car-less to do while wishing they had learned to drive in sixth form. 
 
+![](images/eng_arete_2.jpg){ width=49% }![](images/eng_arete.jpg){ width=49% }
+
+# Map
 <center>
 ```{r, echo=FALSE, results = 'asis'}  
 library(leaflet)
