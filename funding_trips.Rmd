@@ -28,7 +28,7 @@ text-align: justify}
 </style>
 
 # Lord Rootes Memorial Fund
-Over the years several University of Warwick climbers have secured funding for their trips from the [Lord Rootes Memorial Fund](https://warwick.ac.uk/insite/topic/teachinglearning/rootes/). 
+Over the years several University of Warwick climbers have secured funding for their trips from the [Lord Rootes Memorial Fund](https://warwick.ac.uk/insite/topic/teachinglearning/rootes/){target="_blank"}. 
 
 The aim of the fund is to *"encourage creativity, innovation and impact through support of projects by individual and groups of Warwick students, especially projects that: Demonstrate innovative and creative thinking; encourage personal development and challenge in pursuit of an idea or objective; create new enterprises, cultural initiatives and/or social impact".* 
 
