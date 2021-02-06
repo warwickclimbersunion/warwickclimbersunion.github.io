@@ -138,7 +138,7 @@ leaflet() %>%
   addTiles() %>%
   addMarkers(lat=52.4954, lng=-1.9151, popup="Hockley Flyover Underpass <br> By: Train <br> Rocktype: Concrete", icon = bridge_icons) %>%
   addMarkers(lat=52.44828, lng=-1.93099, popup="The Bournebrook Wall <br> By: Train <br> Rocktype: Sandstone", icon = building_icons) %>%
-  addMarkers(lat=52.469, lng=-1.7594, popup="Robo's Bridge<br> By: Train <br> Rocktype: Brick", icon = hill_icons) %>%
+  addMarkers(lat=52.469, lng=-1.7594, popup="Robo's Bridge<br> By: Train <br> Rocktype: Brick", icon = bridge_icons) %>%
   addMarkers(lat=52.281, lng=-1.48351, popup="Radford Railway Viaduct 33A <br> By: Bike <br> Rocktype: Brick", icon = bridge_icons) %>%
   addMarkers(lat=52.4641, lng=-1.5545, popup="Corley Rocks <br> By: Bike <br> Rocktype: Sandstone", icon = hill_icons) %>%
   addMarkers(lat=52.30926, lng=-1.59641, popup="North Woodloes Quarry <br> By: Bike <br> Rocktype: Sandstone", icon = hill_icons) %>%
