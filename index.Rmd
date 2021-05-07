@@ -28,9 +28,9 @@ text-align: justify}
 Welcome to the WUCU website! 
 
 # Our Mission
-We are an organisation for student and alumni climbers that is independent of Warwick SU and Warwick Sport. We organise cheap climbing trips to the Peak District, the Wye Valley, Leicestershire and beyond! 
+We are an organisation for University of Warwick student and alumni climbers that is independent of Warwick SU and Warwick Sport. We organise cheap rock climbing and bouldering trips to the Peak District, the Wye Valley, Leicestershire and beyond! 
 
-For more information please see [our manifesto](manifesto.html).
+For more information about our club please see [our manifesto](manifesto.html).
 
 If you're interested in coming outside with us then check out [our trips page](trips.html) and join [our Facebook Group](https://www.facebook.com/groups/3206887099412017){target="_blank"}.
 
