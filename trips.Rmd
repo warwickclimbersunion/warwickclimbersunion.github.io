@@ -32,7 +32,7 @@ For photos and videos of what we get up to feel free to check out our [Instagram
 
 <br>
 
-```{r, layout="l-body-outset", fig.asp=2}
+```{r, layout="l-body-outset", fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("ngWcd3wjUfE", width = 560, height = 500)
 ```

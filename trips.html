@@ -55,7 +55,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
+<<<<<<< HEAD
 code span.at { } /* Attribute */
+=======
+code span.at { color: #20794d; } /* Attribute */
+>>>>>>> 8681c27e965932551cd33125801fbd6037be36ff
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
 code span.cf { color: #007ba5; } /* ControlFlow */
@@ -76,7 +80,11 @@ code span.kw { color: #007ba5; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
 code span.ot { color: #007ba5; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
+<<<<<<< HEAD
 code span.sc { color: #5e5e5e; } /* SpecialChar */
+=======
+code span.sc { color: #20794d; } /* SpecialChar */
+>>>>>>> 8681c27e965932551cd33125801fbd6037be36ff
 code span.ss { color: #20794d; } /* SpecialString */
 code span.st { color: #20794d; } /* String */
 code span.va { color: #111111; } /* Variable */
@@ -959,6 +967,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       padding-right: 3em;
       padding-left: 2em;
     }
+<<<<<<< HEAD
   }
 
   .d-contents nav h3 {
@@ -984,6 +993,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     margin-bottom: 0.2em;
   }
 
+=======
+  }
+
+  .d-contents nav h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+
+  .d-contents li {
+    list-style-type: none
+  }
+
+  .d-contents nav > ul {
+    padding-left: 0;
+  }
+
+  .d-contents ul {
+    padding-left: 1em
+  }
+
+  .d-contents nav ul li {
+    margin-top: 0.6em;
+    margin-bottom: 0.2em;
+  }
+
+>>>>>>> 8681c27e965932551cd33125801fbd6037be36ff
   .d-contents nav a {
     font-size: 13px;
     border-bottom: none;
@@ -1859,10 +1895,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+<<<<<<< HEAD
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
           return "<p>" + $('#ref-' + ref).html() + "</p>";
         }).join("\n");
+=======
+        var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
+>>>>>>> 8681c27e965932551cd33125801fbd6037be36ff
         window.tippy(this, {
           allowHTML: true,
           content: refHtml,
@@ -2033,7 +2073,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
+<<<<<<< HEAD
   <script src="site_libs/header-attrs-2.7.14/header-attrs.js"></script>
+=======
+  <script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
+>>>>>>> 8681c27e965932551cd33125801fbd6037be36ff
   <link href="site_libs/vembedr-0.1.4/css/vembedr.css" rel="stylesheet" />
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
