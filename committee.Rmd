@@ -63,7 +63,7 @@ output:
 <!--html_preserve-->
 <div class="row">
   <div class="column">
-    <img src="images/trigg.png" alt="Pip Hyde" style="width:100%">
+    <img src="images/pip.jpg" alt="Pip Hyde" style="width:100%">
   </div>
   <div class="column2">
   Pip is a fourth year Mathematics student. As treasurer she is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
