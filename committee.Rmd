@@ -17,58 +17,72 @@ output:
   distill::distill_article:
     css: style.css
 ---
-# Edward Plumb - President
+# Trigg Sharp - Co-President
 <!--html_preserve-->
 <div class="row">
   <div class="column">
-    <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
+    <img src="images/trigg.png" alt="Trigg" style="width:100%">
   </div>
   <div class="column2">
-  Ed is a fourth year Mathematics student and is the current Vice President of Warwick University Climbing Club. As President he is the head of WUCU and chief organiser of trips into the great outdoors.
-  <br><br>
-  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/espace_comboire-10792/grimpe_avec_elle-594027", target="_blank">Grimpe Avec Elle, Grenoble</a> 
-  </div>
-</div>
-<!--/html_preserve-->
-
-# Charlie Henderson - Chairman
-<!--html_preserve-->
-<div class="row">
-  <div class="column">
-    <img src="images/charles.png" alt="Spaghettinoodle" style="width:100%">
-  </div>
-  <div class="column2">
-  Charlie is a postgraduate student in Chemistry and a former President of Warwick University Climbing Club. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
-  <br><br>
-  <b>Favourite Climb:</b> <a href= "https://www.ukclimbing.com/logbook/crags/black_rocks_derbyshire-97/sand_buttress-19953" target="_blank">Sand Buttress, Black Rocks</a>
-  </div>
-</div>
-<!--/html_preserve-->
-
-# Trigg Sharp - Treasurer
-<!--html_preserve-->
-<div class="row">
-  <div class="column">
-    <img src="images/trigg.png" alt="Trigg Sharp" style="width:100%">
-  </div>
-  <div class="column2">
-  Trigg is a third year Engineering student. As treasurer he is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
+  Trigg is studying for a masters in Critical Fatness Theory. As Co-President he is one of two chief organisers of trips into the great outdoors.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
   </div>
 </div>
 <!--/html_preserve-->
 
-# Archie Campbell - Secretary
+# David Parmenter - Co-President
 <!--html_preserve-->
 <div class="row">
   <div class="column">
-    <img src="images/archie.png" alt="Archie Campbell" style="width:100%">
+    <img src="images/david.png" alt="David" style="width:100%">
   </div>
   <div class="column2">
-  Archie is a third year Mechanical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
+  David is studying for a PhD in Physics. As Co-President he is one of two chief organisers of trips into the great outdoors.
+  <br><br>
+  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Ed Plumb - Chairman
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
+  </div>
+  <div class="column2">
+  Ed Plumb was President for the 2020/21 academic year, and is currently studying Feminist Basket Weaving at the SOAS, University of London. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
+  <br><br>
+  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/espace_comboire-10792/grimpe_avec_elle-594027", target="_blank">Grimpe Avec Elle, Grenoble</a> 
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Pip Hyde - Treasurer
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/trigg.png" alt="Pip Hyde" style="width:100%">
+  </div>
+  <div class="column2">
+  Pip is a fourth year Mathematics student. As treasurer she is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
+  <br><br>
+  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/the_dewerstone-206/leviathan-26062" target="_blank">Leviathan, The Dewerstone</a>
+  </div>
+</div>
+<!--/html_preserve-->
+
+# Chris Leigh - Secretary
+<!--html_preserve-->
+<div class="row">
+  <div class="column">
+    <img src="images/chris.jpg" alt="Chris Leigh" style="width:100%">
+  </div>
+  <div class="column2">
+  Archie is a second year Electrical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
     <br><br>
-    <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/ben_nevis-16877/sassenach-484" target="_blank">Sassenach, Ben Nevis</a>
+    <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/bowles_rocks-54/hate-1134" target="_blank">Hate, Bowles Rocks</a>
   </div>
 </div>
 <!--/html_preserve-->
