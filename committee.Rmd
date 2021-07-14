@@ -24,7 +24,7 @@ output:
     <img src="images/trigg.png" alt="Trigg" style="width:100%">
   </div>
   <div class="column2">
-  Trigg is studying for a masters in Critical Fatness Theory. As Co-President he is one of two chief organisers of trips into the great outdoors.
+  Trigg is studying for a masters in Civil Engineering. As Co-President he is one of two chief organisers of trips into the great outdoors.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
   </div>
@@ -38,7 +38,7 @@ output:
     <img src="images/david.png" alt="David" style="width:100%">
   </div>
   <div class="column2">
-  David is studying for a PhD in Physics. As Co-President he is one of two chief organisers of trips into the great outdoors.
+  David is studying for a PhD in Mathematics. As Co-President he is one of two chief organisers of trips into the great outdoors.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
   </div>
@@ -52,7 +52,7 @@ output:
     <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
   </div>
   <div class="column2">
-  Ed Plumb was President for the 2020/21 academic year, and is currently studying Feminist Basket Weaving at the SOAS, University of London. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
+  Ed Plumb was President for the 2020/21 academic year, and is currently studying Mathematics at the London School of Economics. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/espace_comboire-10792/grimpe_avec_elle-594027", target="_blank">Grimpe Avec Elle, Grenoble</a> 
   </div>
