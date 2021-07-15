@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Frequently Asked Questions"
 keywords:
   - warwick university
   - warwick university climbers union
