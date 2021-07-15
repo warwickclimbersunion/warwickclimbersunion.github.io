@@ -73,7 +73,7 @@ datatable(table, rownames = F, options = list(pageLength = 50, dom = "t"))
 ## Illustrative Video
 To get an idea of what a lamp session feels like, here is a video made up of clips from a couple of our recent sessions at Curbar (in the Peak District,  unfortunately not in Leicestershire).
 
-```{r, layout="l-body-outset", fig.asp=2}
+```{r, layout="l-body-outset", fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("Szm-v-_4x1E", width = 560, height = 500)
 ```

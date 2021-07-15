@@ -40,7 +40,7 @@ embed_youtube("ht496hyHApY", width = 560, height = 500)
 ### The Western Edges
 [The Roaches](https://www.ukclimbing.com/logbook/crags/roaches_upper_tier-797){target="_blank"} and [Hen Coud](https://www.ukclimbing.com/logbook/crag.php?id=899){target="_blank"} are on the Western Side of the Peak District. They face south west. The upper tier of the Roaches dries very very quickdry due to its exposure to the wind, the lower tier takes a lot longer to dry. It can be the case that the Eastern Edges are wet but the Roaches are dry, and vice versa. The Roaches has [its own weather forecast](https://www.metoffice.gov.uk/weather/forecast/gcqw6rxvc){target="_blank"}.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("oopSGcJZveE", width = 560, height = 500)
 ```
@@ -48,7 +48,7 @@ embed_youtube("oopSGcJZveE", width = 560, height = 500)
 ### The Limestone
 The main wall at [Horseshoe Quarry](https://www.ukclimbing.com/logbook/crags/horseshoe_quarry-148){target="_blank"} dries reasonably quickly. [Harpur Hill](https://www.ukclimbing.com/logbook/crags/harpur_hill_quarry-956){target="_blank"} gets a lot of wind but not a lot of sun. A lot of the overhanging limestone crags [will stay dry in the rain](weatherproof_crags.html), but be careful about condensation and seepage.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("HTTW5FXooIk", width = 560, height = 500)
 ```
@@ -57,7 +57,7 @@ embed_youtube("HTTW5FXooIk", width = 560, height = 500)
 ### Wyndcliff Quarry
 [Wyndcliff Quarry](https://www.ukclimbing.com/logbook/crags/wyndcliff_quarry-2731){target="_blank"} is a good sport climbing option when the Peak is soaked and is the first crag to dry after rain in the Wye Valley. It faces South West and gets all the sun going. It is exposed to the wind if it is blowing in the right direction. The nearest forecast is for [Chepstow](https://www.metoffice.gov.uk/weather/forecast/gcnjg1jby){target="_blank"}.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("FcJyTGCGFl0", width = 560, height = 500)
 ```
@@ -66,7 +66,7 @@ embed_youtube("FcJyTGCGFl0", width = 560, height = 500)
 ### Beacon Hill
 [Beacon Hill](https://www.ukclimbing.com/logbook/crags/beacon_hill_leicestershire-1170){target="_blank"} is very exposed to the wind and sun. There is no vegetation to retain moisture above the crag, an now trees below it to shield it from the wind and sun. The rock is volcanic and does not absorb moisture. As a result Beacon Hill dries almost instantly. Its only 45 minutes drive away from campus and is a great option when you have a free evening or half-day. The nearest forecast is for [Copt Oak Youth Hostel](https://www.metoffice.gov.uk/weather/forecast/gcr5fgdhm){target="_blank"}.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("i24Qsz7iuvM", width = 560, height = 500)
 ```
@@ -75,7 +75,7 @@ embed_youtube("i24Qsz7iuvM", width = 560, height = 500)
 ### Pleasley Vale
 [Pleasley Vale](https://www.ukclimbing.com/logbook/crags/pleasley_vale-1378){target="_blank"} faces south and if sun follows rain you can watch it dry before your eyes. It's also fairly overhanging so the bouldering may stay dry and you can get on that while the trad routes dry out. The nearest forecast is for [Mansfield Woodhouse](https://www.metoffice.gov.uk/weather/forecast/gcrnkywg8){target="_blank"}.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("ro57rekF1ww", width = 560, height = 500)
 ```

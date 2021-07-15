@@ -70,7 +70,7 @@ embed_youtube("fcXAAyDLmtg", width = 560, height = 500)
 ### Corley Rocks, Corley
 [Corley Rocks](https://www.ukclimbing.com/logbook/crag.php?id=17459){target="_blank"} is a hilarious soft sandstone crag not far from Coventry. It has a couple of decent boulder problems, an ancient and dangerous sport climb, and a trad route. Worth a visit or two to get these things done. Please don't climb on the rock if it is wet or damp.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("4rTKJErjj0s", width = 560, height = 500)
 ```
@@ -99,7 +99,7 @@ The [University campus](https://www.ukclimbing.com/logbook/crag.php?id=24998){ta
 * Petroleum Wall is the name given to the wall below the railings outside the Modern Records Centre/BP Archive. The wall using everything is a classic and dynoing from the second break to the top is worth V6/f7A!
 * The Humanities Rock garden is home to the best problems on real rock. [Attack Goose V1/f5](https://youtu.be/VH7hELva7MA){target="_blank"} and [Cristo El Redentor V0/f4+](https://youtu.be/GKD-vgZwgiU) are essential!
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("-RubEL7sqZg", width = 560, height = 500)
 ```
