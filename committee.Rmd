@@ -24,7 +24,7 @@ output:
     <img src="images/trigg.png" alt="Trigg" style="width:100%">
   </div>
   <div class="column2">
-  Trigg is studying for a masters in Civil Engineering. As Co-President he is one of two chief organisers of trips into the great outdoors.
+  Trigg is studying for a masters in Civil Engineering. As Co-President he is responsible for organising trips.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
   </div>
@@ -38,7 +38,7 @@ output:
     <img src="images/david.png" alt="David" style="width:100%">
   </div>
   <div class="column2">
-  David is studying for a PhD in Mathematics. As Co-President he is one of two chief organisers of trips into the great outdoors.
+  David is studying for a PhD in Mathematics. As Co-President he is responsible for organising trips.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/forest_rock-1171/saucy_sit-start-226278" target="_blank">Saucy Sit Start, Forest Rock</a>
   </div>
@@ -80,7 +80,7 @@ output:
     <img src="images/chris.jpg" alt="Chris Leigh" style="width:100%">
   </div>
   <div class="column2">
-  Archie is a second year Electrical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
+  Chris is a second year Electrical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
     <br><br>
     <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/bowles_rocks-54/hate-1134" target="_blank">Hate, Bowles Rocks</a>
   </div>
