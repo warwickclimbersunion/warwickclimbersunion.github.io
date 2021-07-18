@@ -1,0 +1,59 @@
+---
+title: "The Calendar"
+description: | 
+  A sketch of the typical year for outdoorsy Warwick students.
+keywords:
+  - warwick university
+  - warwick university climbers union
+  - climbing
+  - students
+  - union
+  - outdoor climbing
+  - warwick sport
+  - warwick students union
+  - quick-drying crags
+  - rain
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+Below is a rough sketch of the big trips and events in the Outdoor Community Calendar. If you join one of WUCC or Warwick Mountains then you need to pay for the Sports Federation and for the Warwick SU Club Pass. At this point it only costs a very small amount to join any other sports clubs so you might as well join the other outdoorsy club as well. In previous years keen climbers have joined both clubs and taken advantage of all the trips on offer; you only get one life after all.
+
+WUCC Trips tend to be posted on its [Facebook group](https://www.facebook.com/groups/213573838712663) as well as organised via email. All Warwick Mountains Trips are organised via email.
+
+WUCU Trips are more ad-hoc and are organised via our [Facebook group](https://www.facebook.com/groups/3206887099412017).
+
+# Term 1
+* [WUCU / WUCC Trip to Compton Verney, Warwickshire](https://www.youtube.com/watch?v=osGrr3xg3NA)
+* [WUCC Taster Bouldering Trip to the Ballroom, Coventry](https://www.facebook.com/events/2664292006943905/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* Warwick Mountains Day Trip - Usually to the Peak District, Derbyshire
+* Warwick Mountains Day Trip - Usually to Shropshire
+* Warwick Mountains - Official Mountain Marathon
+* [WUCC Trip - Usually to Giggleswick, North Yorkshire](https://www.facebook.com/events/172940950261335/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* Warwick Mountains Trip - Usually to North Wales
+* [WUCC Freshers' Trip](https://www.facebook.com/events/246300932907708/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* Warwick Mountains Trip - Usually the Lake District
+* [Warwick Mountains Scotland Winter Tour](https://www.warwickmountains.com/scotland-tour)
+
+# Term 2
+* Warwick Mountains Trip - Usually to the Lake District
+* [WUCC Beginner Lead Trip - North Wales](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* Warwick Mountains Trip - Usually to Wales
+* [WUCC Beginner Lead Trip - Cheddar Gorge](https://www.facebook.com/events/347364355869879/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D) or [Portland](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* [Warwick vs Coventry Varsity Bouldering Competition](https://www.facebook.com/events/538429459983640/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* [WUCC Open Competition](https://www.facebook.com/events/377428732807398/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* [WUCC and Warwick Mountains Bevathlon](https://www.facebook.com/events/377428732807398/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* [WUCC - Simon Turner-Bottomley Freshers' Competition](https://www.facebook.com/events/1248156635336860/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+* Warwick Mountains Elections
+* WUCC Tour - Usually to [Spain](https://www.facebook.com/events/1555131704562732/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D) or [Italy](https://www.facebook.com/events/2169123249774212/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D), or even [Turkey](https://www.facebook.com/events/575350565951721/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
+
+# Term 3
+* WUCC Elections
+* WUCU Elections
+* Warwick Mountains Trip - Usually Scotland
