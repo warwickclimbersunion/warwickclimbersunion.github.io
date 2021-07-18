@@ -32,7 +32,7 @@ Crags which are exposed to the wind and are south facing dry fastest. A crag wil
 ### The Eastern Edges
 Stanage and Derwent Edge dry the fastest out of the Eastern Edges, followed by Burbage. The exception to this is if fog and mist is sitting over these higher edges, in which case [Curbar](https://www.ukclimbing.com/logbook/crag.php?id=21){target="_blank"} dries fastest, followed by [Froggatt](https://www.ukclimbing.com/logbook/crags/froggatt_edge_derbyshire-22){target="_blank"} and [Birchen](https://www.ukclimbing.com/logbook/crags/birchen_edge-94){target="_blank"}. The forecast for Stanage is named [High Neb](https://www.metoffice.gov.uk/weather/forecast/gcqzd69kf){target="_blank"}. The best forecast for Curbar etc. is [Chatsworth House](https://www.metoffice.gov.uk/weather/forecast/gcqyg6gsh){target="_blank"}.
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("ht496hyHApY", width = 560, height = 500)
 ```
