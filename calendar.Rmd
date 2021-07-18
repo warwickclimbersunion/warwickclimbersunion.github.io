@@ -34,7 +34,7 @@ WUCC Trips tend to be posted on its [Facebook group](https://www.facebook.com/gr
 
 WUCU Trips are more ad-hoc and are organised via our [Facebook group](https://www.facebook.com/groups/3206887099412017).
 
-# Term 1
+## Term 1
 ### Start
 * [WUCU / WUCC Trip to Compton Verney](https://www.youtube.com/watch?v=osGrr3xg3NA)
 * [WUCC Taster Bouldering Trip to the Ballroom, Coventry](https://www.facebook.com/events/2664292006943905/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
@@ -51,7 +51,7 @@ WUCU Trips are more ad-hoc and are organised via our [Facebook group](https://ww
 * Warwick Mountains Trip - Usually the Lake District
 * [Warwick Mountains Scotland Winter Tour](https://www.warwickmountains.com/scotland-tour)
 
-# Term 2
+## Term 2
 ### Start
 * Warwick Mountains Trip - Usually to the Lake District
 
@@ -68,7 +68,7 @@ WUCU Trips are more ad-hoc and are organised via our [Facebook group](https://ww
 * Warwick Mountains Elections
 * WUCC Tour - Usually to [Spain](https://www.facebook.com/events/1555131704562732/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D) or [Italy](https://www.facebook.com/events/2169123249774212/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D), or even [Turkey](https://www.facebook.com/events/575350565951721/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D)
 
-# Term 3
+## Term 3
 * WUCC Elections
 * WUCU Elections
 * Warwick Mountains Trip - Usually to Scotland
