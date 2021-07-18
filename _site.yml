@@ -31,6 +31,8 @@ navbar:
           - text: "Funding Climbing Expeditions"
             href: "funding_trips.html"
           - text: 'Outdoor Tips:'
+          - text: "The Trip Calendar"
+            href: "calendar.html"
           - text: "Lamp Sessions"
             href: "lamp_sessions.html"
           - text: "Weatherproof Crags"
