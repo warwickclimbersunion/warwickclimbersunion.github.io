@@ -49,7 +49,11 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
 * Warwick Mountains - Official Mountain Marathon
 * [WUCC Trip - Usually to North Yorkshire](https://www.facebook.com/events/172940950261335/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
 * Warwick Mountains Trip - Usually to North Wales
+  + Usually climbing at Giggleswick.
+  + Typically costs around £50.
 * [WUCC Freshers' Trip](https://www.facebook.com/events/246300932907708/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Usually visiting Stanage Edge, Birchen Edge, Lawrencefield or Horseshoe Quarry
+  + Typically costs around £50.
 
 ### End
 * Warwick Mountains Trip - Usually the Lake District
@@ -61,22 +65,33 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
 
 ### Middle
 * [WUCC Beginner Lead Trip - North Wales](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Usually visiting Castle Inn Quarry, Marian Bach and Penmaen Head.
+  + Typically costs around £50.
 * Warwick Mountains Trip - Usually to Wales
 * [WUCC Beginner Lead Trip - Cheddar Gorge](https://www.facebook.com/events/347364355869879/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"} or [Portland](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Usually visiting the Gorge on Saturday and Wyndcliffe Quarry on Sunday.
+  + Typically costs around £50.
 * [Warwick vs Coventry Varsity Bouldering Competition](https://www.facebook.com/events/538429459983640/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
-
+  + The annual face off with Coventry University at the Ballroom.
+  
 ### End
 * [WUCC Open Competition](https://www.facebook.com/events/377428732807398/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Competition for all climbers.
+  + Lead round and a bouldering round.
+  + Held at the Sport and Wellness Hub.
 * [The Bevathlon](https://www.facebook.com/events/377428732807398/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
-  + Warwick Mountains vs WUCC vs WUCU
-  + Teams of Four
-  + 20 Leamington Pubs
+  + Warwick Mountains vs WUCC vs WUCU.
+  + Teams of four.
+  + 20 Leamington Pubs.
   + One pint per team per pub.
   + All team members must be present in the pub while the drink is consumed.
   + Fastest team to complete the course wins.
 * [WUCC - Simon Turner-Bottomley Freshers' Competition](https://www.facebook.com/events/1248156635336860/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Competition for students who started climbing this academic year.
+  + Prize for the winners.
 * Warwick Mountains Elections
 * WUCC Tour - Usually to [Spain](https://www.facebook.com/events/1555131704562732/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"} or [Italy](https://www.facebook.com/events/2169123249774212/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}, or even [Turkey](https://www.facebook.com/events/575350565951721/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
+  + Typically 10 days long and costs around £350.
 
 ## Term 3
 * WUCC Elections
