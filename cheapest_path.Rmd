@@ -1,0 +1,51 @@
+---
+title: "The Cheapest Path"
+description: | 
+  How to climb for as cheap as possible at the University of Warwick.
+output: 
+  distill::distill_article:
+    css: style.css
+---
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
+Below are the cheapest membership options for climbers at the University of Warwick. For more complicated options and combinations please see the [What Memberships Should I Buy?](https://warwickclimbersunion.co.uk/price.html) article.
+
+## For the Beginner
+The cheapest way to learn to climb is to join Warwick University Climbing Club (WUCC). There are two reasons for this. Firstly, they will teach you to climb with ropes over terms 1 and 2. Secondly, the 'Club Pass' you are required to purchase before you can join the club gives you access to the Sports and Wellness Hub climbing wall four times a week at specific times (Club Hours), at no extra cost. See the 'About' section on the [WUCC Facebook](https://www.facebook.com/groups/warwickuniversityclimbingclub/){target="_blank"} group for the exact times. 
+
+* Join Warwick University Climbing Club
+  + Sports Federation Fee - £32
+  + Club Pass Fee - £66
+  + Club Membership Fee - £6
+* Borrow climbing shoes, harnesses, ropes and belay devices during Club Hours - £0
+* Attend no club trips - £0.
+* <b>Total:</b> £104 for the year.
+
+
+## For the Experienced Climber
+You already know how to climb so you have more options available, depending on how often you want to climb and if you want to go on trips.
+
+### Only climb during Club Hours
+If you are happy only climbing during WUCC club hours, then the cheapest path is to join WUCC. Club Hours can be busy and could clash with your lectures so it's worth checking before purchasing.
+
+* Join Warwick University Climbing Club
+  + Sports Federation Fee - £32
+  + Club Pass Fee - £66
+  + Club Membership Fee - £6
+* Attend no club trips - £0.
+* <b>Total:</b> £104 for the year.
+
+### Climbing Indoors Whenever I want
+* Annual student membership at the Sports and Wellness Hub wall - £210
+* Don't join WUCC or WUCU - £0
+* <b>Total:</b> £210 for the year.
+
+### Some Trips Outdoors but no Climbing Indoors
+* WUCU Membership: £20.
+* The cost of each trip outdoors: ~£30 each.
+* <b>Total:</b> £50+ for the year.

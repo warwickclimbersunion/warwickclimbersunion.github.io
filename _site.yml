@@ -24,11 +24,13 @@ navbar:
           - text: 'Information for New Students:'
           - text: "The Annual Calendar"
             href: "calendar.html"
+          - text: "The Cheapest Path"
+            href: "cheapest_path.html"
+          - text: "What Memberships Should I Buy?"
+            href: "price.html"
           - text: 'Money Saving Tips:'
           - text: "The Cheapest Ways to Try Out Climbing"
             href: "taster.html"
-          - text: "What Memberships Should I Buy?"
-            href: "price.html"
           - text: "Saving Money on Climbing Gear"
             href: "gear.html"
           - text: "Funding Climbing Expeditions"
