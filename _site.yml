@@ -29,12 +29,12 @@ navbar:
           - text: "What Memberships Should I Buy?"
             href: "price.html"
           - text: 'Money Saving Tips:'
-          - text: "The Cheapest Ways to Try Out Climbing"
-            href: "taster.html"
           - text: "Saving Money on Climbing Gear"
             href: "gear.html"
           - text: "Funding Climbing Expeditions"
             href: "funding_trips.html"
+          - text: "The Cheapest Ways to Try Out Climbing"
+            href: "taster.html"
           - text: 'Outdoor Tips:'
           - text: "Lamp Sessions"
             href: "lamp_sessions.html"
