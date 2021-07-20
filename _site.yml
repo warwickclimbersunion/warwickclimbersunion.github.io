@@ -21,6 +21,9 @@ navbar:
       href: committee.html
     - text: "Articles"
       menu:
+          - text: 'Information for New Students:'
+          - text: "The Annual Calendar"
+            href: "calendar.html"
           - text: 'Money Saving Tips:'
           - text: "The Cheapest Ways to Try Out Climbing"
             href: "taster.html"
@@ -31,8 +34,6 @@ navbar:
           - text: "Funding Climbing Expeditions"
             href: "funding_trips.html"
           - text: 'Outdoor Tips:'
-          - text: "The Trip Calendar"
-            href: "calendar.html"
           - text: "Lamp Sessions"
             href: "lamp_sessions.html"
           - text: "Weatherproof Crags"
