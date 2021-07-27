@@ -26,7 +26,7 @@ body {
 text-align: justify}
 </style>
 
-Below is a rough sketch of the typical year in the University of Warwick outdoor community calendar, including the big trips and events. Trips are run by three clubs: [Warwick University Climbing Club (WUCC)](https://www.warwicksu.com/societies-sports/sports-clubs/climbing/){target="_blank"}, [Warwick Mountains](https://www.warwicksu.com/societies-sports/sports-clubs/mountains/){target="_blank"} and us, Warwick University Climbers' Union (WUCU). The first two clubs are affiliated with the Students' Union, so if you join one of WUCC or Warwick Mountains then you need to pay for the [Sports Federation and for the Warwick SU Club Pass](https://www.warwicksu.com/societies-sports/sports-clubs/howtojoin/){target="_blank"}. Once you've paid for these it only costs a very small amount (£6 ish) to join any other sports club; so you might as well join the other club as well. In previous years keen climbers have joined both clubs and taken advantage of all the trips on offer; you only get one life, after all. WUCU is not affiliated with the Students' Union and so these fees are not required to join.
+Below is a rough sketch of the typical year in the University of Warwick outdoor community calendar, including the big trips and events. Trips are run by three clubs: [Warwick University Climbing Club (WUCC)](https://www.warwicksu.com/societies-sports/sports-clubs/climbing/){target="_blank"}, [Warwick Mountains](https://www.warwicksu.com/societies-sports/sports-clubs/mountains/){target="_blank"} and us, Warwick University Climbers' Union (WUCU). The first two clubs are affiliated with the Students' Union, so if you join one of WUCC or Warwick Mountains then you need to pay for the [Sports Federation and for the Warwick SU Club Pass](https://www.warwicksu.com/societies-sports/sports-clubs/howtojoin/){target="_blank"}. Once you've paid for these it only costs a very small amount (£6 ish) to join any other sports club; so you might as well join the other club as well. In previous years keen climbers have joined both clubs and taken advantage of all the trips on offer; you only get one life, after all. The Warwick Mountains folk are usually happy to drop you off at a crag, provided it isn't out of their way. WUCU is not affiliated with the Students' Union and so the above fees are not required to join. 
 
 If you are a beginner climber then it is definitely worth joining both WUCC and Warwick Mountains as they each teach different but complementary sets of skills. During Term 1, WUCC will teach you how to [climb and belay with a top-rope](https://www.youtube.com/watch?v=tGiGw_XnSW0){target="_blank"} and Warwick Mountains will teach you how to [navigate in UK mountain areas](https://www.youtube.com/watch?v=WMO1Qz-kH4Q){target="_blank"}. Over new year, Warwick Mountains Scotland Tour takes place where you will learn to stay safe in UK mountains in winter conditions. During Term 2, WUCC will teach you how to [lead climb and belay](https://www.youtube.com/watch?v=UI0cnk_k0eI){target="_blank"} and take you outside to practice your skills, before putting them to the test on their European Tour over the Easter Break.  During Term 1 of your second year WUCC will teach you how to [climb in traditional style](https://www.youtube.com/watch?v=TzNH5dm1bGo){target="_blank"}. If you learn how to climb and mountaineer in your first year, and learn trad skills during Term 1 of your second year, then during your second Warwick Mountains Scotland Tour  you will be able to learn how to do [winter scrambling and low grade winter climbing](https://www.youtube.com/watch?v=8P6yUjYRqxU){target="_blank"}.
 
@@ -42,21 +42,21 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
 * [WUCC Taster Bouldering Trip to the Ballroom, Coventry](https://www.facebook.com/events/2664292006943905/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
   + Taster trip to the bouldering wall in the centre of Coventry.
   + Typically a very cheap one-off entry price of around £2.
-* Warwick Mountains Day Trip - Usually to the Peak District
-* Warwick Mountains Day Trip - Usually to Shropshire
+* Warwick Mountains Day Trip - Usually to the Peak District or Shropshire
+* Warwick Mountains Trip - Usually to Snowdonia, North Wales
 
 ### Middle
-* Warwick Mountains - Official Mountain Marathon
+* [Warwick Mountains - Original Mountain Marathon](https://theomm.com/the-omm/)
 * [WUCC Trip - Usually to North Yorkshire](https://www.facebook.com/events/172940950261335/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
-* Warwick Mountains Trip - Usually to North Wales
   + Usually climbing at Giggleswick.
   + Typically costs around £50.
+* Warwick Mountains Trip - Usually to the Lake District
 * [WUCC Freshers' Trip](https://www.facebook.com/events/246300932907708/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
   + Usually visiting Stanage Edge, Birchen Edge, Lawrencefield or Horseshoe Quarry
   + Typically costs around £50.
 
 ### End
-* Warwick Mountains Trip - Usually the Lake District
+* Warwick Mountains Trip - Usually to Snowdonia, North Wales
 * [Warwick Mountains Scotland Winter Tour](https://www.warwickmountains.com/scotland-tour){target="_blank"}
 
 ## Term 2
@@ -67,7 +67,7 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
 * [WUCC Beginner Lead Trip - North Wales](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
   + Usually visiting Castle Inn Quarry, Marian Bach and Penmaen Head.
   + Typically costs around £50.
-* Warwick Mountains Trip - Usually to Wales
+* Warwick Mountains Trip - Usually to Snowdonia, North Wales
 * [WUCC Beginner Lead Trip - Cheddar Gorge](https://www.facebook.com/events/347364355869879/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"} or [Portland](https://www.facebook.com/events/2175304419396695/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
   + Usually visiting the Gorge on Saturday and Wyndcliffe Quarry on Sunday.
   + Typically costs around £50.
@@ -75,6 +75,7 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
   + The annual face off with Coventry University at the Ballroom.
   
 ### End
+* Warwick Mountains Trip - Usually to the Lake District
 * [WUCC Open Competition](https://www.facebook.com/events/377428732807398/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D){target="_blank"}
   + Competition for all climbers.
   + Lead round and a bouldering round.
@@ -96,4 +97,6 @@ WUCU Trips are more impromptu and ad hoc and are organised via our [Facebook gro
 ## Term 3
 * WUCC Elections
 * WUCU Elections
-* Warwick Mountains Trip - Usually to Scotland
+* Warwick Mountains Trip - Usually to Snowdonia, North Wales
+* Warwick Mountains Trip - Usually to Scotland, sometimes wild camping depending on weather.
+* Warwick Mountains Trip - Usually to the Lake District
