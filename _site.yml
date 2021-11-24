@@ -11,6 +11,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Get Involved"
+      menu:
+          - text: "Facebook Group"
+            href: "https://www.facebook.com/groups/3206887099412017"
+          - text: "WhatsApp Chat"
+            href: "https://chat.whatsapp.com/CmWxDiUbY8ZLFGn2G9k0Hb"
     - text: "Manifesto"
       href: manifesto.html
     - text: "Trips"
@@ -46,9 +52,9 @@ navbar:
             href: "public_transport.html"
           - text: 'Training Tips:'
           - text: "The Training Board"
-            href: "https://warwickclimbing.co.uk/about/training/theboard/"
+            href: "https://climbingsoc.uwcs.co.uk/about/training/theboard/"
     - text: "Links"
-      menu:
+      menu:	
           - text: 'Kindred Clubs:'
           - text: "Warwick University Climbing Club"
             href: "https://warwickclimbing.co.uk/"
