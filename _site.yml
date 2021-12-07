@@ -82,4 +82,5 @@ output:
     distill::distill_article:
       includes:
         in_header: header.html
+        after_body: footer.html
 ---

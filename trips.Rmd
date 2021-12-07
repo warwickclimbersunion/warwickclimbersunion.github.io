@@ -18,7 +18,8 @@ keywords:
 
 Since our establishment in September 2020 we have visited:
 
-* [North Wales](https://www.instagram.com/p/CWBpTMwIhue/){target="_blank"}
+* [Parisella's Cave in North Wales](https://www.instagram.com/p/CWBpTMwIhue/){target="_blank"}
+* [The Cromlech Boulders and Dinowic Quarry in Snowdonia](https://www.instagram.com/p/CWGwuSwIydv/){target="_blank"}
 * [Biblins Cave in the Wye Valley](https://www.youtube.com/watch?v=ngWcd3wjUfE){target="_blank"}
 * [Raven Tor in the Peak District](https://www.instagram.com/p/CFtzENqFHMa/){target="_blank"} [(twice!)](https://www.instagram.com/p/CF-bewCAGZa/){target="_blank"}
 * [Burbage North and West Edges in the Peak District](https://www.instagram.com/p/CGXk7OpgUSB/){target="_blank"}
@@ -71,6 +72,8 @@ leaflet() %>%
   addMarkers(lat=53.3431, lng=-1.6105, popup='Burbage North, Peak District<br><br><a href = "https://www.instagram.com/p/CGXk7OpgUSB/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=52.1732, lng=-1.5459, popup='Compton Verney, Warwickshire<br><br><a href = "https://www.instagram.com/p/CUYGSNLIG4h/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>
              <a href = "https://www.youtube.com/watch?v=8wTfBO6L4sk" target = "_blank"> <img src="https://www.youtube.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
+  addMarkers(lat=51.7595, lng=-3.57859, popup='Dinas Rock, Mid Glamorgan<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
+  addMarkers(lat=51.82621, lng=-3.65006, popup='Bilberry Boulders, Brecon Beacons<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=52.37778, lng=-1.5699, popup='University of Warwick', icon = uni_icons)
 
 ```
