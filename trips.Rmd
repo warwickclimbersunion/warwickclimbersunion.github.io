@@ -18,6 +18,7 @@ keywords:
 
 Since our establishment in September 2020 we have visited:
 
+* [Ogmore-by-Sea in South Wales](https://www.instagram.com/p/CXOeASTIKZV/){target="_blank"}
 * [Dinas Rock in South Wales](https://www.instagram.com/p/CXJ9ziZoJgd/){target="_blank"}
 * [Parisella's Cave in North Wales](https://www.instagram.com/p/CWBpTMwIhue/){target="_blank"}
 * [The Cromlech Boulders and Dinowic Quarry in Snowdonia](https://www.instagram.com/p/CWGwuSwIydv/){target="_blank"}
@@ -75,6 +76,9 @@ leaflet() %>%
              <a href = "https://www.youtube.com/watch?v=8wTfBO6L4sk" target = "_blank"> <img src="https://www.youtube.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=51.7595, lng=-3.57859, popup='Dinas Rock, Mid Glamorgan<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=51.82621, lng=-3.65006, popup='Bilberry Boulders, Brecon Beacons<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
+    addMarkers(lat=51.4601, lng=-3.6369, popup='Ogmore-by-Sea, South Glamorgan<br><br><a href = "https://www.instagram.com/p/CXOeASTIKZV/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
+  
+  
   addMarkers(lat=52.37778, lng=-1.5699, popup='University of Warwick', icon = uni_icons)
 
 ```
