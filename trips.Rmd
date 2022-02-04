@@ -18,6 +18,7 @@ keywords:
 
 Since our establishment in September 2020 we have visited:
 
+* [Porth Ysgo in North Wales](https://www.instagram.com/p/CZhGhNJNViO/){target="_blank"}
 * [Ogmore-by-Sea in South Wales](https://www.instagram.com/p/CXOeASTIKZV/){target="_blank"}
 * [Dinas Rock in South Wales](https://www.instagram.com/p/CXJ9ziZoJgd/){target="_blank"}
 * [Parisella's Cave in North Wales](https://www.instagram.com/p/CWBpTMwIhue/){target="_blank"}
@@ -77,7 +78,7 @@ leaflet() %>%
   addMarkers(lat=51.7595, lng=-3.57859, popup='Dinas Rock, Mid Glamorgan<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=51.82621, lng=-3.65006, popup='Bilberry Boulders, Brecon Beacons<br><br><a href = "https://www.instagram.com/p/CXJ9ziZoJgd/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
     addMarkers(lat=51.4601, lng=-3.6369, popup='Ogmore-by-Sea, South Glamorgan<br><br><a href = "https://www.instagram.com/p/CXOeASTIKZV/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
-  
+  addMarkers(lat=52.8036, lng=-4.6583, popup='Porth Ysgo, Llyn Peninsula<br><br><a href = "https://www.instagram.com/p/CZhGhNJNViO/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   
   addMarkers(lat=52.37778, lng=-1.5699, popup='University of Warwick', icon = uni_icons)
 
