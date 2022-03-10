@@ -56,7 +56,7 @@ Below is a brief description of each location, as well as some photos and videos
 **How to get there:** Catch the train to Marston Green. From here walk for 5 minutes to the bridge, located at [52.469,-1.7594](http://maps.google.com/?q=52.469,-1.7594){target="_blank"}.
 
 
-```{r, fig.asp=2}
+```{r, fig.asp=2, echo = FALSE}
 library(vembedr)
 embed_youtube("fcXAAyDLmtg", width = 560, height = 500)
 ```
