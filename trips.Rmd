@@ -23,7 +23,7 @@ Since our establishment in September 2020 we have visited:
 * [Dinas Rock in South Wales](https://www.instagram.com/p/CXJ9ziZoJgd/){target="_blank"}
 * [Parisella's Cave in North Wales](https://www.instagram.com/p/CWBpTMwIhue/){target="_blank"}
 * [The Cromlech Boulders and Dinowic Quarry in Snowdonia](https://www.instagram.com/p/CWGwuSwIydv/){target="_blank"}
-* [Biblins Cave in the Wye Valley](https://www.youtube.com/watch?v=ngWcd3wjUfE){target="_blank"}
+* [Madawag Rock Shelter (Biblins Cave) in the Wye Valley](https://www.youtube.com/watch?v=ngWcd3wjUfE){target="_blank"}
 * [Raven Tor in the Peak District](https://www.instagram.com/p/CFtzENqFHMa/){target="_blank"} [(twice!)](https://www.instagram.com/p/CF-bewCAGZa/){target="_blank"}
 * [Burbage North and West Edges in the Peak District](https://www.instagram.com/p/CGXk7OpgUSB/){target="_blank"}
 * [John's Frankland's Untitled Boulder at Compton Verney, Warwickshire](https://www.instagram.com/p/CQ8cIk-D6qt/){target="_blank"} [(twice!)](https://www.instagram.com/p/CUYGSNLIG4h/){target="_blank"}
@@ -64,7 +64,7 @@ uni_icons  <- icons(
 
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=51.83470, lng=-2.65850, popup='Biblins Cave, Wye Valley<br><br><a href = "https://www.instagram.com/p/CFmEIMkFaQC/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>
+  addMarkers(lat=51.83470, lng=-2.65850, popup='Madawag Rock Shelter (Biblins Cave), Wye Valley<br><br><a href = "https://www.instagram.com/p/CFmEIMkFaQC/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>
              <a href = "https://www.youtube.com/watch?v=ngWcd3wjUfE" target = "_blank"> <img src="https://www.youtube.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=52.72285, lng=-1.21504, popup='Forest Rock, Leicestershire<br><br><a href = "https://www.instagram.com/p/CRHo0puD1J3/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>', icon = hill_icons) %>%
   addMarkers(lat=53.25626, lng=-1.77604, popup='Raven Tor, Peak District<br><br><a href = "https://www.instagram.com/p/CF-bewCAGZa/" target = "_blank"> <img src="https://www.instagram.com/favicon.ico"  width = "25" height = "25"></a>
