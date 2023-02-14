@@ -23,6 +23,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
@@ -49,16 +50,17 @@ pre.numberSource code > span > a:first-child::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {   }
+  { color: #00769e; background-color: #f1f3f5; }
 @media screen {
 pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
+code span { color: #00769e; } /* Normal */
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
-code span.at { } /* Attribute */
+code span.at { color: #657422; } /* Attribute */
 code span.bn { color: #ad0000; } /* BaseN */
 code span.bu { } /* BuiltIn */
-code span.cf { color: #007ba5; } /* ControlFlow */
+code span.cf { color: #00769e; } /* ControlFlow */
 code span.ch { color: #20794d; } /* Char */
 code span.cn { color: #8f5902; } /* Constant */
 code span.co { color: #5e5e5e; } /* Comment */
@@ -72,9 +74,9 @@ code span.fl { color: #ad0000; } /* Float */
 code span.fu { color: #4758ab; } /* Function */
 code span.im { } /* Import */
 code span.in { color: #5e5e5e; } /* Information */
-code span.kw { color: #007ba5; } /* Keyword */
+code span.kw { color: #00769e; } /* Keyword */
 code span.op { color: #5e5e5e; } /* Operator */
-code span.ot { color: #007ba5; } /* Other */
+code span.ot { color: #00769e; } /* Other */
 code span.pp { color: #ad0000; } /* Preprocessor */
 code span.sc { color: #5e5e5e; } /* SpecialChar */
 code span.ss { color: #20794d; } /* SpecialString */
@@ -83,6 +85,7 @@ code span.va { color: #111111; } /* Variable */
 code span.vs { color: #20794d; } /* VerbatimString */
 code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
+
 
   <!--radix_placeholder_meta_tags-->
   <title>WUCU: The Committee</title>
@@ -455,7 +458,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   </style>
 
-  <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
   <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet"/>
   <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
@@ -786,6 +789,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1027,10 +1031,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     position: relative;
     margin-bottom: 2.5em;
     margin-top: 1.5em;
-  }
-
-  .figure img {
-    width: 100%;
   }
 
   .figure .caption {
@@ -1862,9 +1862,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -1876,6 +1888,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
           placement: 'bottom-start'
         });
       });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
 
       // clear polling timer
       clearInterval(tid);
@@ -1975,6 +2012,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // mark non-body figures created by knitr chunks as 100% width
     $('.layout-chunk').each(function(i, val) {
       var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
       if ($(this).attr('data-layout') !== "l-body") {
         figures.css('width', '100%');
       } else {
@@ -1997,7 +2036,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     // get rid of index.html references in header
     if (window.location.protocol !== "file:") {
       $('.distill-site-header a[href]').each(function(i,val) {
-        $(this).attr('href', $(this).attr('href').replace("index.html", "./"));
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
       });
     }
 
@@ -2036,7 +2075,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </script>
 
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.7.14/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2077,7 +2116,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a class="logo" href="index.html">
-<img src="images/logo.PNG" alt="Logo"/>
+<img src="images/logo.png" alt="Logo"/>
 </a>
 <a href="index.html" class="title">Warwick University Climbers' Union</a>
 </div>
@@ -2091,7 +2130,7 @@ Get Involved
 </button>
 <div class="nav-dropdown-content">
 <a href="https://www.facebook.com/groups/3206887099412017">Facebook Group</a>
-<a href="https://chat.whatsapp.com/CmWxDiUbY8ZLFGn2G9k0Hb">WhatsApp Chat</a>
+<a href="https://chat.whatsapp.com/H2AwZz4r3zmAhkmevuDm9l">WhatsApp Chat</a>
 </div>
 </div>
 <a href="manifesto.html">Manifesto</a>
@@ -2162,68 +2201,29 @@ Links
 
 
 <div class="d-article">
-<h1 id="trigg-sharp---co-president">Trigg Sharp - Co-President</h1>
+<h1 id="helen-norman---president">Helen Norman - President</h1>
 
 <div class="row">
   <div class="column">
-    <img src="images/trigg.png" alt="Trigg" style="width:100%">
+    <img src="images/helen.jpg" alt="Helen Norman" style="width:100%">
   </div>
   <div class="column2">
-  Trigg is studying for a masters in Civil Engineering. As Co-President he is responsible for organising trips.
+  Helen is a fourth year Mathematics student. As President she is responsible for organising trips.
   <br><br>
-  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/corley_rocks-17459/warwickshire_sport-481132" target="_blank">Warwickshire Sport, Corley Rocks</a>
+  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/coastguard_south-270/walking_the_king-13787" target="_blank">Walking The King, Isle of Portland</a>
   </div>
 </div>
 
-<h1 id="david-parmenter---co-president">David Parmenter - Co-President</h1>
+<h1 id="david-parmenter---chairman">David Parmenter - Chairman</h1>
 
 <div class="row">
   <div class="column">
     <img src="images/david.png" alt="David" style="width:100%">
   </div>
   <div class="column2">
-  David is studying for a PhD in Mathematics. As Co-President he is responsible for organising trips.
+  David was President for the 2021/22 academic year, and is studying for a PhD in Mathematics. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
   <br><br>
   <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/forest_rock-1171/saucy_sit-start-226278" target="_blank">Saucy Sit Start, Forest Rock</a>
-  </div>
-</div>
-
-<h1 id="ed-plumb---chairman">Ed Plumb - Chairman</h1>
-
-<div class="row">
-  <div class="column">
-    <img src="images/ed.png" alt="Ed Plumb" style="width:100%">
-  </div>
-  <div class="column2">
-  Ed Plumb was President for the 2020/21 academic year, and is currently studying Mathematics at the London School of Economics. His role as Chairman is to advise the President and provide general assistance in the running of WUCU.
-  <br><br>
-  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/espace_comboire-10792/grimpe_avec_elle-594027", target="_blank">Grimpe Avec Elle, Grenoble</a> 
-  </div>
-</div>
-
-<h1 id="pip-hyde---treasurer">Pip Hyde - Treasurer</h1>
-
-<div class="row">
-  <div class="column">
-    <img src="images/pip.jpg" alt="Pip Hyde" style="width:100%">
-  </div>
-  <div class="column2">
-  Pip is a fourth year Mathematics student. As treasurer she is responsible for helping to organise trips, managing WUCU's bank account and the collection and distribution of petrol money for trip drivers.
-  <br><br>
-  <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/the_dewerstone-206/leviathan-26062" target="_blank">Leviathan, The Dewerstone</a>
-  </div>
-</div>
-
-<h1 id="chris-leigh---secretary">Chris Leigh - Secretary</h1>
-
-<div class="row">
-  <div class="column">
-    <img src="images/chris.jpg" alt="Chris Leigh" style="width:100%">
-  </div>
-  <div class="column2">
-  Chris is a second year Electrical Engineering student. As secretary he is responsible for keeping the BMC up to date with who our members are and corresponding with WUCU members on behalf of the committee.
-    <br><br>
-    <b>Favourite Climb:</b> <a href="https://www.ukclimbing.com/logbook/crags/bowles_rocks-54/hate-1134" target="_blank">Hate, Bowles Rocks</a>
   </div>
 </div>
 
@@ -2244,7 +2244,8 @@ Links
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>© Copyright 2022 Warwick University Climbers' Union <br> - Semper Mittendum -</p>
+<p>© Copyright 2022 Warwick University Climbers' Union <br> - Semper
+Mittendum -</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
 
